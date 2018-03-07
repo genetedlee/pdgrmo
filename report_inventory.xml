@@ -2705,6 +2705,16 @@
                     <td>CTMS</td>
                   </tr>
                   <tr>
+                    <td><a href="" target="_blank">Spotfire Web Player Usage Tracking Dashboard</a></td>
+                    <td>Other</td>
+                    <td>User ID</td>
+                    <td>Shows statistics about the usage of spotfire reports</td>
+                    <td>SPE internal use</td>
+                    <td>Daily</td>
+                    <td>Spotfire</td>
+                    <td>Spotfire</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://pdspotfire.roche.com/spotfire/wp/ViewAnalysis.aspx?file=/PD%20Operations/PDG%20Managers/TurnoverRates" target="_blank">Staff Turnover Summary</a></td>
                     <td>Resourcing</td>
                     <td>Functional</td>
@@ -5980,6 +5990,15 @@
                     <td>Live</td>
                     <td>Internet</td>
                     <td>Other</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">Spotfire Web Player Usage Tracking Dashboard</a></td>
+                    <td>User ID</td>
+                    <td>Shows statistics about the usage of spotfire reports</td>
+                    <td>SPE internal use</td>
+                    <td>Daily</td>
+                    <td>Spotfire</td>
+                    <td>Spotfire</td>
                   </tr>
                   <tr>
                     <td><a href="https://www.ta-scan.com/" target="_blank">TA Scan</a></td>
@@ -10621,6 +10640,15 @@
                     <td>SMT Goals Database</td>
                   </tr>
                   <tr>
+                    <td><a href="" target="_blank">Spotfire Web Player Usage Tracking Dashboard</a></td>
+                    <td>Other</td>
+                    <td>Shows statistics about the usage of spotfire reports</td>
+                    <td>SPE internal use</td>
+                    <td>Daily</td>
+                    <td>Spotfire</td>
+                    <td>Spotfire</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://pdspotfire.roche.com/spotfire/wp/ViewAnalysis.aspx?file=/PD%20Operations/PDG%20Managers/TurnoverRates" target="_blank">Staff Turnover Summary</a></td>
                     <td>Resourcing</td>
                     <td>This report provides an overview of turnover rates for PDG sub departments by site and resource type</td>
@@ -14051,6 +14079,15 @@
                     <td>Internet</td>
                   </tr>
                   <tr>
+                    <td><a href="" target="_blank">Spotfire Web Player Usage Tracking Dashboard</a></td>
+                    <td>Other</td>
+                    <td>User ID</td>
+                    <td>Shows statistics about the usage of spotfire reports</td>
+                    <td>SPE internal use</td>
+                    <td>Daily</td>
+                    <td>Spotfire</td>
+                  </tr>
+                  <tr>
                     <td><a href="https://taportal.roche.com/" target="_blank">TA Portal</a></td>
                     <td>Portfolio Recruitment Performance</td>
                     <td>Program Study Country Site</td>
@@ -14603,6 +14640,10 @@
                   <tr>
                     <td><a href="https://searchxs.roche.com/#" target="_blank">searchXs (Search Across Systems)</a></td>
                     <td>Search Across Systems (searchXs) provides an easy way to access and retrieve information from multiple systems for all Roche users.</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">Spotfire Web Player Usage Tracking Dashboard</a></td>
+                    <td>Shows statistics about the usage of spotfire reports</td>
                   </tr>
                   <tr>
                     <td><a href="https://sites.google.com/a/roche.com/visualising-pdg-data/" target="_blank">Visualising PDG Data</a></td>
