@@ -1095,6 +1095,16 @@
                     <td>CTMS</td>
                   </tr>
                   <tr>
+                    <td><a href="" target="_blank">FTE Dashboard</a></td>
+                    <td>Resourcing</td>
+                    <td>Functional</td>
+                    <td>This Report is provided by GRM for use by the GRM functions</td>
+                    <td>Functional Management Resource Management</td>
+                    <td>Daily</td>
+                    <td>Spotfire</td>
+                    <td>PlanSource Timesheets</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AUoMqhw4_QBNn5kTOueStpk" target="_blank">FTE Demand vs Actuals Report</a></td>
                     <td>Resourcing</td>
                     <td>Functional</td>
@@ -5245,6 +5255,15 @@
                     <td>Weekly</td>
                     <td>Spotfire</td>
                     <td>CTMS</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">FTE Dashboard</a></td>
+                    <td>Functional</td>
+                    <td>This Report is provided by GRM for use by the GRM functions</td>
+                    <td>Functional Management Resource Management</td>
+                    <td>Daily</td>
+                    <td>Spotfire</td>
+                    <td>PlanSource Timesheets</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AUoMqhw4_QBNn5kTOueStpk" target="_blank">FTE Demand vs Actuals Report</a></td>
@@ -10091,6 +10110,15 @@
                     <td>CTMS</td>
                   </tr>
                   <tr>
+                    <td><a href="" target="_blank">FTE Dashboard</a></td>
+                    <td>Resourcing</td>
+                    <td>This Report is provided by GRM for use by the GRM functions</td>
+                    <td>Functional Management Resource Management</td>
+                    <td>Daily</td>
+                    <td>Spotfire</td>
+                    <td>PlanSource Timesheets</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AUoMqhw4_QBNn5kTOueStpk" target="_blank">FTE Demand vs Actuals Report</a></td>
                     <td>Resourcing</td>
                     <td>Report provides a comparison of Demand and Actual at the Site and Resource Type (Role) level  There are two  tabs with datas: D vs A By Workpackage, D vs A By Task</td>
@@ -12737,6 +12765,15 @@
                     <td>Business Objects via Compliance Machine</td>
                   </tr>
                   <tr>
+                    <td><a href="" target="_blank">FTE Dashboard</a></td>
+                    <td>Resourcing</td>
+                    <td>Functional</td>
+                    <td>This Report is provided by GRM for use by the GRM functions</td>
+                    <td>Functional Management Resource Management</td>
+                    <td>Daily</td>
+                    <td>Spotfire</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AUoMqhw4_QBNn5kTOueStpk" target="_blank">FTE Demand vs Actuals Report</a></td>
                     <td>Resourcing</td>
                     <td>Functional</td>
@@ -14501,6 +14538,15 @@
                     <td>Functional Management</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">FTE Dashboard</a></td>
+                    <td>Resourcing</td>
+                    <td>Functional</td>
+                    <td>This Report is provided by GRM for use by the GRM functions</td>
+                    <td>Functional Management Resource Management</td>
+                    <td>Daily</td>
+                    <td>Spotfire</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AUoMqhw4_QBNn5kTOueStpk" target="_blank">FTE Demand vs Actuals Report</a></td>
@@ -34119,6 +34165,15 @@
                     <td>CTMS</td>
                   </tr>
                   <tr>
+                    <td><a href="" target="_blank">FTE Dashboard</a></td>
+                    <td>Resourcing</td>
+                    <td>Functional</td>
+                    <td>This Report is provided by GRM for use by the GRM functions</td>
+                    <td>Daily</td>
+                    <td>Spotfire</td>
+                    <td>PlanSource Timesheets</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AUoMqhw4_QBNn5kTOueStpk" target="_blank">FTE Demand vs Actuals Report</a></td>
                     <td>Resourcing</td>
                     <td>Functional</td>
@@ -35562,6 +35617,14 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource CTMS</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">FTE Dashboard</a></td>
+                    <td>Functional</td>
+                    <td>This Report is provided by GRM for use by the GRM functions</td>
+                    <td>Daily</td>
+                    <td>Spotfire</td>
+                    <td>PlanSource Timesheets</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AUoMqhw4_QBNn5kTOueStpk" target="_blank">FTE Demand vs Actuals Report</a></td>
@@ -37204,6 +37267,14 @@
                     <td>CTMS</td>
                   </tr>
                   <tr>
+                    <td><a href="" target="_blank">FTE Dashboard</a></td>
+                    <td>Resourcing</td>
+                    <td>This Report is provided by GRM for use by the GRM functions</td>
+                    <td>Daily</td>
+                    <td>Spotfire</td>
+                    <td>PlanSource Timesheets</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AUoMqhw4_QBNn5kTOueStpk" target="_blank">FTE Demand vs Actuals Report</a></td>
                     <td>Resourcing</td>
                     <td>Report provides a comparison of Demand and Actual at the Site and Resource Type (Role) level  There are two  tabs with datas: D vs A By Workpackage, D vs A By Task</td>
@@ -38315,6 +38386,14 @@
                     <td>Business Objects</td>
                   </tr>
                   <tr>
+                    <td><a href="" target="_blank">FTE Dashboard</a></td>
+                    <td>Resourcing</td>
+                    <td>Functional</td>
+                    <td>This Report is provided by GRM for use by the GRM functions</td>
+                    <td>Daily</td>
+                    <td>Spotfire</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AUoMqhw4_QBNn5kTOueStpk" target="_blank">FTE Demand vs Actuals Report</a></td>
                     <td>Resourcing</td>
                     <td>Functional</td>
@@ -39297,6 +39376,14 @@
                     <td>Timecard actuals for CCO Canada</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">FTE Dashboard</a></td>
+                    <td>Resourcing</td>
+                    <td>Functional</td>
+                    <td>This Report is provided by GRM for use by the GRM functions</td>
+                    <td>Daily</td>
+                    <td>Spotfire</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AUoMqhw4_QBNn5kTOueStpk" target="_blank">FTE Demand vs Actuals Report</a></td>
@@ -39785,6 +39872,15 @@
                     <td>CTMS</td>
                   </tr>
                   <tr>
+                    <td><a href="" target="_blank">FTE Dashboard</a></td>
+                    <td>Resourcing</td>
+                    <td>Functional</td>
+                    <td>This Report is provided by GRM for use by the GRM functions</td>
+                    <td>Daily</td>
+                    <td>Spotfire</td>
+                    <td>PlanSource Timesheets</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AUoMqhw4_QBNn5kTOueStpk" target="_blank">FTE Demand vs Actuals Report</a></td>
                     <td>Resourcing</td>
                     <td>Functional</td>
@@ -40799,6 +40895,14 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource CTMS</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">FTE Dashboard</a></td>
+                    <td>Functional</td>
+                    <td>This Report is provided by GRM for use by the GRM functions</td>
+                    <td>Daily</td>
+                    <td>Spotfire</td>
+                    <td>PlanSource Timesheets</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AUoMqhw4_QBNn5kTOueStpk" target="_blank">FTE Demand vs Actuals Report</a></td>
@@ -42089,6 +42193,14 @@
                     <td>CTMS</td>
                   </tr>
                   <tr>
+                    <td><a href="" target="_blank">FTE Dashboard</a></td>
+                    <td>Resourcing</td>
+                    <td>This Report is provided by GRM for use by the GRM functions</td>
+                    <td>Daily</td>
+                    <td>Spotfire</td>
+                    <td>PlanSource Timesheets</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AUoMqhw4_QBNn5kTOueStpk" target="_blank">FTE Demand vs Actuals Report</a></td>
                     <td>Resourcing</td>
                     <td>Report provides a comparison of Demand and Actual at the Site and Resource Type (Role) level  There are two  tabs with datas: D vs A By Workpackage, D vs A By Task</td>
@@ -42936,6 +43048,14 @@
                     <td>Business Objects</td>
                   </tr>
                   <tr>
+                    <td><a href="" target="_blank">FTE Dashboard</a></td>
+                    <td>Resourcing</td>
+                    <td>Functional</td>
+                    <td>This Report is provided by GRM for use by the GRM functions</td>
+                    <td>Daily</td>
+                    <td>Spotfire</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AUoMqhw4_QBNn5kTOueStpk" target="_blank">FTE Demand vs Actuals Report</a></td>
                     <td>Resourcing</td>
                     <td>Functional</td>
@@ -43726,6 +43846,14 @@
                     <td>List timesheet actuals for CCO in Canada.</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">FTE Dashboard</a></td>
+                    <td>Resourcing</td>
+                    <td>Functional</td>
+                    <td>This Report is provided by GRM for use by the GRM functions</td>
+                    <td>Daily</td>
+                    <td>Spotfire</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AUoMqhw4_QBNn5kTOueStpk" target="_blank">FTE Demand vs Actuals Report</a></td>
