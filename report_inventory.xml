@@ -1345,6 +1345,16 @@
                     <td>SMT Goals Database</td>
                   </tr>
                   <tr>
+                    <td><a href="https://gocsm.roche.com" target="_blank">goCSM</a></td>
+                    <td>Portfolio</td>
+                    <td>Country</td>
+                    <td>Overview of metrics for CSM purposes only</td>
+                    <td>CSMs</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>eTMF, RAVE,CTMS,PDMS</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AUkKgAXu7TlAvUaK77c8W7QIDType=CUID" target="_blank">GPRS Recruitment</a></td>
                     <td>Performance</td>
                     <td>Study Country Site</td>
@@ -3228,6 +3238,15 @@
                     <td>eTMF</td>
                   </tr>
                   <tr>
+                    <td><a href="https://gocsm.roche.com" target="_blank">goCSM</a></td>
+                    <td>Country</td>
+                    <td>Overview of metrics for CSM purposes only</td>
+                    <td>CSMs</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>eTMF, RAVE,CTMS,PDMS</td>
+                  </tr>
+                  <tr>
                     <td><a href="https://drive.google.com/open?id=0By97zcqKDmQTdmdySFJHSU5DbXM" target="_blank">PSMF Interfaces Functional Specification</a></td>
                     <td>Study</td>
                     <td>Shows a list of interventional and non-interventional studies (ongoing).</td>
@@ -3555,6 +3574,15 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>CTMS</td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://gocsm.roche.com" target="_blank">goCSM</a></td>
+                    <td>Country</td>
+                    <td>Overview of metrics for CSM purposes only</td>
+                    <td>CSMs</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>eTMF, RAVE,CTMS,PDMS</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AX9IPDK2C_ZMtArOfU9VFe4&sIDType=CUID" target="_blank">MHRA Inspection Listing</a></td>
@@ -3992,6 +4020,15 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>SMT Goals Database</td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://gocsm.roche.com" target="_blank">goCSM</a></td>
+                    <td>Country</td>
+                    <td>Overview of metrics for CSM purposes only</td>
+                    <td>CSMs</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>eTMF, RAVE,CTMS,PDMS</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AUkKgAXu7TlAvUaK77c8W7QIDType=CUID" target="_blank">GPRS Recruitment</a></td>
@@ -4987,6 +5024,15 @@
                     <td>Weekly</td>
                     <td>Spotfire</td>
                     <td>CTMS</td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://gocsm.roche.com" target="_blank">goCSM</a></td>
+                    <td>Country</td>
+                    <td>Overview of metrics for CSM purposes only</td>
+                    <td>CSMs</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>eTMF, RAVE,CTMS,PDMS</td>
                   </tr>
                   <tr>
                     <td><a href="https://tabemea.roche.com/#/views/MoleculeReport/Homepage?:refresh=y&:iid=1" target="_blank">I2ON Molecule Report</a></td>
@@ -8181,6 +8227,15 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
+                    <td><a href="https://gocsm.roche.com" target="_blank">goCSM</a></td>
+                    <td>Portfolio</td>
+                    <td>Overview of metrics for CSM purposes only</td>
+                    <td>CSMs</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>eTMF, RAVE,CTMS,PDMS</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AUkKgAXu7TlAvUaK77c8W7QIDType=CUID" target="_blank">GPRS Recruitment</a></td>
                     <td>Performance</td>
                     <td>Study and site level site activation, recruitment, milestone data and metrics</td>
@@ -11231,6 +11286,15 @@
                     <td>Business Objects</td>
                   </tr>
                   <tr>
+                    <td><a href="https://gocsm.roche.com" target="_blank">goCSM</a></td>
+                    <td>Portfolio</td>
+                    <td>Country</td>
+                    <td>Overview of metrics for CSM purposes only</td>
+                    <td>CSMs</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AUkKgAXu7TlAvUaK77c8W7QIDType=CUID" target="_blank">GPRS Recruitment</a></td>
                     <td>Performance</td>
                     <td>Study Country Site</td>
@@ -12235,6 +12299,15 @@
                     <td>Tableau</td>
                   </tr>
                   <tr>
+                    <td><a href="https://gocsm.roche.com" target="_blank">goCSM</a></td>
+                    <td>Portfolio</td>
+                    <td>Country</td>
+                    <td>Overview of metrics for CSM purposes only</td>
+                    <td>CSMs</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://mydq.roche.com/" target="_blank">MyDQ 2.0</a></td>
                     <td>Data Quality</td>
                     <td>Study Country Functional</td>
@@ -12274,6 +12347,15 @@
                     <td>Study Country Site</td>
                     <td>Provides a list of eTMF metrcis related to quality and compliance.</td>
                     <td>Study Management</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://gocsm.roche.com" target="_blank">goCSM</a></td>
+                    <td>Portfolio</td>
+                    <td>Country</td>
+                    <td>Overview of metrics for CSM purposes only</td>
+                    <td>CSMs</td>
                     <td>Daily</td>
                     <td>Tableau</td>
                   </tr>
@@ -13357,6 +13439,15 @@
                     <td>TA Portal</td>
                   </tr>
                   <tr>
+                    <td><a href="https://gocsm.roche.com" target="_blank">goCSM</a></td>
+                    <td>Portfolio</td>
+                    <td>Country</td>
+                    <td>Overview of metrics for CSM purposes only</td>
+                    <td>CSMs</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                  </tr>
+                  <tr>
                     <td><a href="https://tabemea.roche.com/#/views/MoleculeReport/Homepage?:refresh=y&:iid=1" target="_blank">I2ON Molecule Report</a></td>
                     <td>Portfolio Recruitment</td>
                     <td>Program Functional</td>
@@ -13711,6 +13802,15 @@
                     <td>Country Management Site Management</td>
                     <td>Live</td>
                     <td>TA Portal</td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://gocsm.roche.com" target="_blank">goCSM</a></td>
+                    <td>Portfolio</td>
+                    <td>Country</td>
+                    <td>Overview of metrics for CSM purposes only</td>
+                    <td>CSMs</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
                   </tr>
                   <tr>
                     <td><a href="https://tabemea.roche.com/#/views/MoleculeReport/Homepage?:refresh=y&:iid=1" target="_blank">I2ON Molecule Report</a></td>
@@ -26460,6 +26560,15 @@
                     <td>Other</td>
                   </tr>
                   <tr>
+                    <td><a href="https://gocsm.roche.com" target="_blank">goCSM</a></td>
+                    <td>Portfolio</td>
+                    <td>Country</td>
+                    <td>Overview of metrics for CSM purposes only</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>eTMF, RAVE,CTMS,PDMS</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AUkKgAXu7TlAvUaK77c8W7QIDType=CUID" target="_blank">GPRS Recruitment</a></td>
                     <td>Performance</td>
                     <td>Study Country Site</td>
@@ -27418,6 +27527,14 @@
                     <td>CTMS</td>
                   </tr>
                   <tr>
+                    <td><a href="https://gocsm.roche.com" target="_blank">goCSM</a></td>
+                    <td>Country</td>
+                    <td>Overview of metrics for CSM purposes only</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>eTMF, RAVE,CTMS,PDMS</td>
+                  </tr>
+                  <tr>
                     <td><a href="" target="_blank">READ</a></td>
                     <td>Study</td>
                     <td>Affiliate Study teams to have oversight of their patient data and CRA activity related to data.</td>
@@ -27664,6 +27781,14 @@
                     <td>CTMS</td>
                   </tr>
                   <tr>
+                    <td><a href="https://gocsm.roche.com" target="_blank">goCSM</a></td>
+                    <td>Country</td>
+                    <td>Overview of metrics for CSM purposes only</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>eTMF, RAVE,CTMS,PDMS</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AX9IPDK2C_ZMtArOfU9VFe4&sIDType=CUID" target="_blank">MHRA Inspection Listing</a></td>
                     <td>Study Country</td>
                     <td>The MHRA Inspection Listing report is a comprehensive listing of all Roche-GNE clinical trials that were active during the selected time period and had at least one site in the UK.</td>
@@ -27852,6 +27977,14 @@
                     <td>Weekly</td>
                     <td>Spotfire</td>
                     <td>CTMS</td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://gocsm.roche.com" target="_blank">goCSM</a></td>
+                    <td>Country</td>
+                    <td>Overview of metrics for CSM purposes only</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>eTMF, RAVE,CTMS,PDMS</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AUkKgAXu7TlAvUaK77c8W7QIDType=CUID" target="_blank">GPRS Recruitment</a></td>
@@ -28458,6 +28591,14 @@
                     <td>Weekly</td>
                     <td>Spotfire</td>
                     <td>CTMS</td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://gocsm.roche.com" target="_blank">goCSM</a></td>
+                    <td>Country</td>
+                    <td>Overview of metrics for CSM purposes only</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>eTMF, RAVE,CTMS,PDMS</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AZ6iWfpQvktApdepyZFyWQU&sIDType=CUID" target="_blank">PDG Subject Recruitment</a></td>
@@ -30070,6 +30211,14 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
+                    <td><a href="https://gocsm.roche.com" target="_blank">goCSM</a></td>
+                    <td>Portfolio</td>
+                    <td>Overview of metrics for CSM purposes only</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>eTMF, RAVE,CTMS,PDMS</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AUkKgAXu7TlAvUaK77c8W7QIDType=CUID" target="_blank">GPRS Recruitment</a></td>
                     <td>Performance</td>
                     <td>Study and site level site activation, recruitment, milestone data and metrics</td>
@@ -31913,6 +32062,14 @@
                     <td>Business Objects</td>
                   </tr>
                   <tr>
+                    <td><a href="https://gocsm.roche.com" target="_blank">goCSM</a></td>
+                    <td>Portfolio</td>
+                    <td>Country</td>
+                    <td>Overview of metrics for CSM purposes only</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AUkKgAXu7TlAvUaK77c8W7QIDType=CUID" target="_blank">GPRS Recruitment</a></td>
                     <td>Performance</td>
                     <td>Study Country Site</td>
@@ -32607,6 +32764,14 @@
                     <td>Business Objects</td>
                   </tr>
                   <tr>
+                    <td><a href="https://gocsm.roche.com" target="_blank">goCSM</a></td>
+                    <td>Portfolio</td>
+                    <td>Country</td>
+                    <td>Overview of metrics for CSM purposes only</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://mydq.roche.com/" target="_blank">MyDQ 2.0</a></td>
                     <td>Data Quality</td>
                     <td>Study Country Functional</td>
@@ -32637,6 +32802,14 @@
                     <th>Reporting Tool</th>
                   </tr></thead>
                   <tbody>
+                  <tr>
+                    <td><a href="https://gocsm.roche.com" target="_blank">goCSM</a></td>
+                    <td>Portfolio</td>
+                    <td>Country</td>
+                    <td>Overview of metrics for CSM purposes only</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                  </tr>
                   </tbody>
                 </table>
               </div></div>
@@ -33017,6 +33190,14 @@
                     <td>TA Portal</td>
                   </tr>
                   <tr>
+                    <td><a href="https://gocsm.roche.com" target="_blank">goCSM</a></td>
+                    <td>Portfolio</td>
+                    <td>Country</td>
+                    <td>Overview of metrics for CSM purposes only</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://pdspotfire.roche.com/SpotfireWeb/ViewAnalysis.aspx?file=043ccdfe-2a7b-449b-8e8a-c57d7d3ae16f" target="_blank">PRP - History of Country Enrollment</a></td>
                     <td>Recruitment</td>
                     <td>Country</td>
@@ -33213,6 +33394,14 @@
                     <td>The Country Clinical Operations Leadership Team (CCO LT) Dashboard provides a single source of truth to improve Leadership Team’s collaboration within CCO and enable CCO LT to monitor and proactively manage trials.</td>
                     <td>Live</td>
                     <td>TA Portal</td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://gocsm.roche.com" target="_blank">goCSM</a></td>
+                    <td>Portfolio</td>
+                    <td>Country</td>
+                    <td>Overview of metrics for CSM purposes only</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
                   </tr>
                   <tr>
                     <td><a href="" target="_blank">READ</a></td>
