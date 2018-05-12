@@ -1625,16 +1625,6 @@
                     <td>COGNOS</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AZZMrDRzrxxEricyE_1DQsE&sIDType=CUID" target="_blank">OPL and GSL Project Status Report</a></td>
-                    <td>Portfolio</td>
-                    <td>Study</td>
-                    <td>Summarized CTMS data updated daily for OPLs and GSLs to cut and past into Project status reports.</td>
-                    <td>Program Management Study Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>CTMS</td>
-                  </tr>
-                  <tr>
                     <td><a href="" target="_blank">One Click Dashboard for GSx</a></td>
                     <td>Performance</td>
                     <td>Study</td>
@@ -1643,6 +1633,16 @@
                     <td>Daily</td>
                     <td>Tableau</td>
                     <td>CTMS, PRP, Study Optimizer, Rave</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AZZMrDRzrxxEricyE_1DQsE&sIDType=CUID" target="_blank">OPL and GSL Project Status Report</a></td>
+                    <td>Portfolio</td>
+                    <td>Study</td>
+                    <td>Summarized CTMS data updated daily for OPLs and GSLs to cut and past into Project status reports.</td>
+                    <td>Program Management Study Management</td>
+                    <td>Daily</td>
+                    <td>Business Objects</td>
+                    <td>CTMS</td>
                   </tr>
                   <tr>
                     <td><a href="https://sites.google.com/a/roche.com/patient-centric-tactics-hub/home" target="_blank">PATCH</a></td>
@@ -1693,16 +1693,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>CTMS</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://pdspotfire.roche.com/spotfire/wp/ViewAnalysis.aspx?file=/PD%20Operations/PD%20NMP/ONMP%20Report%20PlanSource-embedded" target="_blank">PDG Non-Molecular Portfolio Report</a></td>
-                    <td>Resourcing</td>
-                    <td>Functional</td>
-                    <td>This report provides resource data for the PDG non-molecular project portfolio.   Note: Formerly known as oNMP Report</td>
-                    <td>Functional Management Resource Management Portfolio Management</td>
-                    <td>Daily</td>
-                    <td>Spotfire</td>
-                    <td>PlanSource</td>
                   </tr>
                   <tr>
                     <td><a href="http://pdspotfire.roche.com/spotfire/wp/ViewAnalysis.aspx?file=/PD%20Operations/PDG%20Managers/SourcingTrends" target="_blank">PDG Sourcing Trends Over Time</a></td>
@@ -2085,26 +2075,6 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="" target="_blank">READ</a></td>
-                    <td>Compliance</td>
-                    <td>Study</td>
-                    <td>Affiliate Study teams to have oversight of their patient data and CRA activity related to data.</td>
-                    <td>Affiliate Study Teams, CRAs</td>
-                    <td>Daily</td>
-                    <td>Spotfire</td>
-                    <td>RAVE</td>
-                  </tr>
-                  <tr>
-                    <td><a href="" target="_blank">RMO Operational Toolkit</a></td>
-                    <td>Performance</td>
-                    <td>Study</td>
-                    <td>Performance status of studies in terms of recruitment, timelines, quality across PD. It is a real time Book of Business summarizing PDG's health status on portfolio, deprtmental, study, country levels.</td>
-                    <td>Program Management Study Management</td>
-                    <td>Daily</td>
-                    <td>Tableau</td>
-                    <td>CTMS, PRP, Study Optimizer, Rave, Plansource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=Adnn_PWOxOFDssN4lnGlEAY&sIDType=CUID" target="_blank">Q-Finance Accrual Journal Report</a></td>
                     <td>Financial</td>
                     <td>Study</td>
@@ -2235,6 +2205,16 @@
                     <td>CTMS</td>
                   </tr>
                   <tr>
+                    <td><a href="" target="_blank">READ</a></td>
+                    <td>Compliance</td>
+                    <td>Study</td>
+                    <td>Affiliate Study teams to have oversight of their patient data and CRA activity related to data.</td>
+                    <td>Affiliate Study Teams, CRAs</td>
+                    <td>Daily</td>
+                    <td>Spotfire</td>
+                    <td>RAVE</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbUUvfWiU6RNhf.rjduqFHg" target="_blank">Received Samples Report</a></td>
                     <td>Portfolio</td>
                     <td>Study Country Site</td>
@@ -2303,6 +2283,16 @@
                     <td>Daily</td>
                     <td>Excel</td>
                     <td>PlanSource</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">RMO Operational Toolkit</a></td>
+                    <td>Performance</td>
+                    <td>Study</td>
+                    <td>Performance status of studies in terms of recruitment, timelines, quality across PD. It is a real time Book of Business summarizing PDG's health status on portfolio, deprtmental, study, country levels.</td>
+                    <td>Program Management Study Management</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>CTMS, PRP, Study Optimizer, Rave, Plansource</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=ASiPOEqT9MxLutmcpKVQ8Io&sIDType=CUID" target="_blank">SAE List for Country</a></td>
@@ -3612,15 +3602,6 @@
                     <td>PlanSource Projects Module</td>
                   </tr>
                   <tr>
-                    <td><a href="" target="_blank">READ</a></td>
-                    <td>Study</td>
-                    <td>Affiliate Study teams to have oversight of their patient data and CRA activity related to data.</td>
-                    <td>Affiliate Study Teams, CRAs</td>
-                    <td>Daily</td>
-                    <td>Spotfire</td>
-                    <td>RAVE</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYMQIUPtjBdHmlxzwDraMys" target="_blank">Quantum Data Quality for Country</a></td>
                     <td>Study Country</td>
                     <td>The report provides a list of data quality issues for the selected study(s). All the information required for the location identification and resolution of the issues is provided to the user.</td>
@@ -3637,6 +3618,15 @@
                     <td>Daily</td>
                     <td>Business Objects via Compliance Machine</td>
                     <td>Quantum</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">READ</a></td>
+                    <td>Study</td>
+                    <td>Affiliate Study teams to have oversight of their patient data and CRA activity related to data.</td>
+                    <td>Affiliate Study Teams, CRAs</td>
+                    <td>Daily</td>
+                    <td>Spotfire</td>
+                    <td>RAVE</td>
                   </tr>
                   </tbody>
                 </table>
@@ -4076,15 +4066,6 @@
                     <td>CTMS</td>
                   </tr>
                   <tr>
-                    <td><a href="" target="_blank">RMO Operational Toolkit</a></td>
-                    <td>Study</td>
-                    <td>Performance status of studies in terms of recruitment, timelines, quality across PD. It is a real time Book of Business summarizing PDG's health status on portfolio, deprtmental, study, country levels.</td>
-                    <td>Program Management Study Management</td>
-                    <td>Daily</td>
-                    <td>Tableau</td>
-                    <td>CTMS, PRP, Study Optimizer, Rave, Plansource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AW.qAEUaWFZEqF2zKdSRZ6Y&sIDType=CUID" target="_blank">Quarterly Snapshot - Recruiting Studies</a></td>
                     <td>Study Country Site</td>
                     <td>Metric takes a Snapshot of the enrollment status of all active sites that have been open for 3 months or more at the end of each Quarter.  This metric is more sensitive to changes in current practice than data presented in the Portfolio Overview and Annual Productivity Trends data.  It is a leading indicator of how annual site productivity and portfolio overview will read out in future.  Taken together, this information along with the Annual Site Productivity overview provides the best overview of site productivity.</td>
@@ -4101,6 +4082,15 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>CTMS</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">RMO Operational Toolkit</a></td>
+                    <td>Study</td>
+                    <td>Performance status of studies in terms of recruitment, timelines, quality across PD. It is a real time Book of Business summarizing PDG's health status on portfolio, deprtmental, study, country levels.</td>
+                    <td>Program Management Study Management</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>CTMS, PRP, Study Optimizer, Rave, Plansource</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbAIhKHu9QdGn8b0QSCyN5U" target="_blank">Site Activation Recruitment</a></td>
@@ -4479,15 +4469,6 @@
                     <td>CTMS PlanSource PRP Study Optimizer Rave Goals Database PharmaRes MDMS Phase Ib Tracker IVRS (pending)</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AZZMrDRzrxxEricyE_1DQsE&sIDType=CUID" target="_blank">OPL and GSL Project Status Report</a></td>
-                    <td>Study</td>
-                    <td>Summarized CTMS data updated daily for OPLs and GSLs to cut and past into Project status reports.</td>
-                    <td>Program Management Study Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>CTMS</td>
-                  </tr>
-                  <tr>
                     <td><a href="" target="_blank">One Click Dashboard for GSx</a></td>
                     <td>Study</td>
                     <td>Performance status of studies in terms of recruitment, timelines, quality. Views designed to be more applicable for GSx roles. Data sources used are in line with TA Portal.</td>
@@ -4495,6 +4476,15 @@
                     <td>Daily</td>
                     <td>Tableau</td>
                     <td>CTMS, PRP, Study Optimizer, Rave</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AZZMrDRzrxxEricyE_1DQsE&sIDType=CUID" target="_blank">OPL and GSL Project Status Report</a></td>
+                    <td>Study</td>
+                    <td>Summarized CTMS data updated daily for OPLs and GSLs to cut and past into Project status reports.</td>
+                    <td>Program Management Study Management</td>
+                    <td>Daily</td>
+                    <td>Business Objects</td>
+                    <td>CTMS</td>
                   </tr>
                   <tr>
                     <td><a href="https://drive.google.com/drive/folders/0B3KGDRuGRJWeMUJLUkt3MV9yUlU" target="_blank">PDG Book of Business</a></td>
@@ -4542,15 +4532,6 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="" target="_blank">RMO Operational Toolkit</a></td>
-                    <td>Study</td>
-                    <td>Performance status of studies in terms of recruitment, timelines, quality across PD. It is a real time Book of Business summarizing PDG's health status on portfolio, deprtmental, study, country levels.</td>
-                    <td>Program Management Study Management</td>
-                    <td>Daily</td>
-                    <td>Tableau</td>
-                    <td>CTMS, PRP, Study Optimizer, Rave, Plansource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbUUvfWiU6RNhf.rjduqFHg" target="_blank">Received Samples Report</a></td>
                     <td>Study Country Site</td>
                     <td>All Samples received by the sample handling labs in BRM.</td>
@@ -4567,6 +4548,15 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>Salome</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">RMO Operational Toolkit</a></td>
+                    <td>Study</td>
+                    <td>Performance status of studies in terms of recruitment, timelines, quality across PD. It is a real time Book of Business summarizing PDG's health status on portfolio, deprtmental, study, country levels.</td>
+                    <td>Program Management Study Management</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>CTMS, PRP, Study Optimizer, Rave, Plansource</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=ASiPOEqT9MxLutmcpKVQ8Io&sIDType=CUID" target="_blank">SAE List for Country</a></td>
@@ -5589,15 +5579,6 @@
                     <td>T Rounds</td>
                     <td>Spotfire</td>
                     <td>PlanSource PlanET</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://pdspotfire.roche.com/spotfire/wp/ViewAnalysis.aspx?file=/PD%20Operations/PD%20NMP/ONMP%20Report%20PlanSource-embedded" target="_blank">PDG Non-Molecular Portfolio Report</a></td>
-                    <td>Functional</td>
-                    <td>This report provides resource data for the PDG non-molecular project portfolio.   Note: Formerly known as oNMP Report</td>
-                    <td>Functional Management Resource Management Portfolio Management</td>
-                    <td>Daily</td>
-                    <td>Spotfire</td>
-                    <td>PlanSource</td>
                   </tr>
                   <tr>
                     <td><a href="http://pdspotfire.roche.com/spotfire/wp/ViewAnalysis.aspx?file=/PD%20Operations/PDG%20Managers/Timesheet%20Compliance" target="_blank">PDG Timesheet Compliance Report</a></td>
@@ -6323,15 +6304,6 @@
                     <td>CTMS</td>
                   </tr>
                   <tr>
-                    <td><a href="" target="_blank">RMO Operational Toolkit</a></td>
-                    <td>Performance</td>
-                    <td>Performance status of studies in terms of recruitment, timelines, quality across PD. It is a real time Book of Business summarizing PDG's health status on portfolio, deprtmental, study, country levels.</td>
-                    <td>Program Management Study Management</td>
-                    <td>Daily</td>
-                    <td>Tableau</td>
-                    <td>CTMS, PRP, Study Optimizer, Rave, Plansource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://pdspotfire.roche.com/spotfire/wp/ViewAnalysis.aspx?file=/PD%20Operations/PDG%20All/Resourcing_Report_PDG" target="_blank">Resourcing Report PDG</a></td>
                     <td>Resourcing</td>
                     <td>This report provides resource data for the PDG project portfolio highlighting resource analysis and details including demand, supply and timecoding actuals.</td>
@@ -6348,6 +6320,15 @@
                     <td>Daily</td>
                     <td>Excel</td>
                     <td>PlanSource</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">RMO Operational Toolkit</a></td>
+                    <td>Performance</td>
+                    <td>Performance status of studies in terms of recruitment, timelines, quality across PD. It is a real time Book of Business summarizing PDG's health status on portfolio, deprtmental, study, country levels.</td>
+                    <td>Program Management Study Management</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>CTMS, PRP, Study Optimizer, Rave, Plansource</td>
                   </tr>
                   <tr>
                     <td><a href="SMT Goals Overview" target="_blank">SMT Goals Overview</a></td>
@@ -6888,15 +6869,6 @@
                     <td>COGNOS</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AZZMrDRzrxxEricyE_1DQsE&sIDType=CUID" target="_blank">OPL and GSL Project Status Report</a></td>
-                    <td>Portfolio</td>
-                    <td>Summarized CTMS data updated daily for OPLs and GSLs to cut and past into Project status reports.</td>
-                    <td>Program Management Study Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>CTMS</td>
-                  </tr>
-                  <tr>
                     <td><a href="" target="_blank">One Click Dashboard for GSx</a></td>
                     <td>Performance</td>
                     <td>Performance status of studies in terms of recruitment, timelines, quality. Views designed to be more applicable for GSx roles. Data sources used are in line with TA Portal.</td>
@@ -6904,6 +6876,15 @@
                     <td>Daily</td>
                     <td>Tableau</td>
                     <td>CTMS, PRP, Study Optimizer, Rave</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AZZMrDRzrxxEricyE_1DQsE&sIDType=CUID" target="_blank">OPL and GSL Project Status Report</a></td>
+                    <td>Portfolio</td>
+                    <td>Summarized CTMS data updated daily for OPLs and GSLs to cut and past into Project status reports.</td>
+                    <td>Program Management Study Management</td>
+                    <td>Daily</td>
+                    <td>Business Objects</td>
+                    <td>CTMS</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYJgemhXSsRAv_oE1DfO3po" target="_blank">PDG Cycle Time Metrics</a></td>
@@ -7086,24 +7067,6 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="" target="_blank">READ</a></td>
-                    <td>Compliance</td>
-                    <td>Affiliate Study teams to have oversight of their patient data and CRA activity related to data.</td>
-                    <td>Affiliate Study Teams, CRAs</td>
-                    <td>Daily</td>
-                    <td>Spotfire</td>
-                    <td>RAVE</td>
-                  </tr>
-                  <tr>
-                    <td><a href="" target="_blank">RMO Operational Toolkit</a></td>
-                    <td>Performance</td>
-                    <td>Performance status of studies in terms of recruitment, timelines, quality across PD. It is a real time Book of Business summarizing PDG's health status on portfolio, deprtmental, study, country levels.</td>
-                    <td>Program Management Study Management</td>
-                    <td>Daily</td>
-                    <td>Tableau</td>
-                    <td>CTMS, PRP, Study Optimizer, Rave, Plansource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=Adnn_PWOxOFDssN4lnGlEAY&sIDType=CUID" target="_blank">Q-Finance Accrual Journal Report</a></td>
                     <td>Financial</td>
                     <td>This report enables the simple transfer of calculated accrual information from QFinance into the standard SAP journal entry template (for posting in SAP)</td>
@@ -7203,6 +7166,15 @@
                     <td>CTMS</td>
                   </tr>
                   <tr>
+                    <td><a href="" target="_blank">READ</a></td>
+                    <td>Compliance</td>
+                    <td>Affiliate Study teams to have oversight of their patient data and CRA activity related to data.</td>
+                    <td>Affiliate Study Teams, CRAs</td>
+                    <td>Daily</td>
+                    <td>Spotfire</td>
+                    <td>RAVE</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbUUvfWiU6RNhf.rjduqFHg" target="_blank">Received Samples Report</a></td>
                     <td>Portfolio</td>
                     <td>All Samples received by the sample handling labs in BRM.</td>
@@ -7246,6 +7218,15 @@
                     <td>Daily</td>
                     <td>Excel</td>
                     <td>PlanSource</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">RMO Operational Toolkit</a></td>
+                    <td>Performance</td>
+                    <td>Performance status of studies in terms of recruitment, timelines, quality across PD. It is a real time Book of Business summarizing PDG's health status on portfolio, deprtmental, study, country levels.</td>
+                    <td>Program Management Study Management</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>CTMS, PRP, Study Optimizer, Rave, Plansource</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=ASiPOEqT9MxLutmcpKVQ8Io&sIDType=CUID" target="_blank">SAE List for Country</a></td>
@@ -8470,15 +8451,6 @@
                     <td>PRP</td>
                   </tr>
                   <tr>
-                    <td><a href="" target="_blank">READ</a></td>
-                    <td>Compliance</td>
-                    <td>Affiliate Study teams to have oversight of their patient data and CRA activity related to data.</td>
-                    <td>Affiliate Study Teams, CRAs</td>
-                    <td>Daily</td>
-                    <td>Spotfire</td>
-                    <td>RAVE</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYMQIUPtjBdHmlxzwDraMys" target="_blank">Quantum Data Quality for Country</a></td>
                     <td>Data Quality</td>
                     <td>The report provides a list of data quality issues for the selected study(s). All the information required for the location identification and resolution of the issues is provided to the user.</td>
@@ -8522,6 +8494,15 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>CTMS</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">READ</a></td>
+                    <td>Compliance</td>
+                    <td>Affiliate Study teams to have oversight of their patient data and CRA activity related to data.</td>
+                    <td>Affiliate Study Teams, CRAs</td>
+                    <td>Daily</td>
+                    <td>Spotfire</td>
+                    <td>RAVE</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbUUvfWiU6RNhf.rjduqFHg" target="_blank">Received Samples Report</a></td>
@@ -9440,15 +9421,6 @@
                     <td>PRP</td>
                   </tr>
                   <tr>
-                    <td><a href="" target="_blank">READ</a></td>
-                    <td>Compliance</td>
-                    <td>Affiliate Study teams to have oversight of their patient data and CRA activity related to data.</td>
-                    <td>Affiliate Study Teams, CRAs</td>
-                    <td>Daily</td>
-                    <td>Spotfire</td>
-                    <td>RAVE</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AU89ZKmzxENHtuBqwV2dqBE&sIDType=CUID" target="_blank">Quantum Monthly F&G Investigator Costs Report</a></td>
                     <td>Financial</td>
                     <td>Detailed report  of the payments for completed work at Investigational  sites during a defined period (Pro Forma invoice if sites do not send invoices for Investigator Fees & Grants)</td>
@@ -9465,6 +9437,15 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>CTMS</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">READ</a></td>
+                    <td>Compliance</td>
+                    <td>Affiliate Study teams to have oversight of their patient data and CRA activity related to data.</td>
+                    <td>Affiliate Study Teams, CRAs</td>
+                    <td>Daily</td>
+                    <td>Spotfire</td>
+                    <td>RAVE</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbUUvfWiU6RNhf.rjduqFHg" target="_blank">Received Samples Report</a></td>
@@ -10498,15 +10479,6 @@
                     <td>PlanSource PlanET</td>
                   </tr>
                   <tr>
-                    <td><a href="http://pdspotfire.roche.com/spotfire/wp/ViewAnalysis.aspx?file=/PD%20Operations/PD%20NMP/ONMP%20Report%20PlanSource-embedded" target="_blank">PDG Non-Molecular Portfolio Report</a></td>
-                    <td>Resourcing</td>
-                    <td>This report provides resource data for the PDG non-molecular project portfolio.   Note: Formerly known as oNMP Report</td>
-                    <td>Functional Management Resource Management Portfolio Management</td>
-                    <td>Daily</td>
-                    <td>Spotfire</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://pdspotfire.roche.com/spotfire/wp/ViewAnalysis.aspx?file=/PD%20Operations/PDG%20Managers/SourcingTrends" target="_blank">PDG Sourcing Trends Over Time</a></td>
                     <td>Portfolio</td>
                     <td>This report shows sourcing trends over time for PDG conducted studies by phase</td>
@@ -11439,15 +11411,6 @@
                     <td>Business Objects</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AZZMrDRzrxxEricyE_1DQsE&sIDType=CUID" target="_blank">OPL and GSL Project Status Report</a></td>
-                    <td>Portfolio</td>
-                    <td>Study</td>
-                    <td>Summarized CTMS data updated daily for OPLs and GSLs to cut and past into Project status reports.</td>
-                    <td>Program Management Study Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                  </tr>
-                  <tr>
                     <td><a href="" target="_blank">One Click Dashboard for GSx</a></td>
                     <td>Performance</td>
                     <td>Study</td>
@@ -11455,6 +11418,15 @@
                     <td>Program Management Study Management</td>
                     <td>Daily</td>
                     <td>Tableau</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AZZMrDRzrxxEricyE_1DQsE&sIDType=CUID" target="_blank">OPL and GSL Project Status Report</a></td>
+                    <td>Portfolio</td>
+                    <td>Study</td>
+                    <td>Summarized CTMS data updated daily for OPLs and GSLs to cut and past into Project status reports.</td>
+                    <td>Program Management Study Management</td>
+                    <td>Daily</td>
+                    <td>Business Objects</td>
                   </tr>
                   <tr>
                     <td><a href="https://drive.google.com/drive/folders/0B3KGDRuGRJWeMUJLUkt3MV9yUlU" target="_blank">PDG Book of Business</a></td>
@@ -11529,24 +11501,6 @@
                     <td>gDrive</td>
                   </tr>
                   <tr>
-                    <td><a href="" target="_blank">READ</a></td>
-                    <td>Compliance</td>
-                    <td>Study</td>
-                    <td>Affiliate Study teams to have oversight of their patient data and CRA activity related to data.</td>
-                    <td>Affiliate Study Teams, CRAs</td>
-                    <td>Daily</td>
-                    <td>Spotfire</td>
-                  </tr>
-                  <tr>
-                    <td><a href="" target="_blank">RMO Operational Toolkit</a></td>
-                    <td>Performance</td>
-                    <td>Study</td>
-                    <td>Performance status of studies in terms of recruitment, timelines, quality across PD. It is a real time Book of Business summarizing PDG's health status on portfolio, deprtmental, study, country levels.</td>
-                    <td>Program Management Study Management</td>
-                    <td>Daily</td>
-                    <td>Tableau</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYMQIUPtjBdHmlxzwDraMys" target="_blank">Quantum Data Quality for Country</a></td>
                     <td>Data Quality</td>
                     <td>Study Country</td>
@@ -11583,6 +11537,15 @@
                     <td>Business Objects</td>
                   </tr>
                   <tr>
+                    <td><a href="" target="_blank">READ</a></td>
+                    <td>Compliance</td>
+                    <td>Study</td>
+                    <td>Affiliate Study teams to have oversight of their patient data and CRA activity related to data.</td>
+                    <td>Affiliate Study Teams, CRAs</td>
+                    <td>Daily</td>
+                    <td>Spotfire</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AXjTYIEwR6ZMmkZ0CbjdZ8I&sIDType=CUID" target="_blank">Recruitment & Screening Oversight</a></td>
                     <td>Performance</td>
                     <td>Study</td>
@@ -11590,6 +11553,15 @@
                     <td>Study Management Country Management</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">RMO Operational Toolkit</a></td>
+                    <td>Performance</td>
+                    <td>Study</td>
+                    <td>Performance status of studies in terms of recruitment, timelines, quality across PD. It is a real time Book of Business summarizing PDG's health status on portfolio, deprtmental, study, country levels.</td>
+                    <td>Program Management Study Management</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=ASiPOEqT9MxLutmcpKVQ8Io&sIDType=CUID" target="_blank">SAE List for Country</a></td>
@@ -13144,15 +13116,6 @@
                     <td>Spotfire</td>
                   </tr>
                   <tr>
-                    <td><a href="http://pdspotfire.roche.com/spotfire/wp/ViewAnalysis.aspx?file=/PD%20Operations/PD%20NMP/ONMP%20Report%20PlanSource-embedded" target="_blank">PDG Non-Molecular Portfolio Report</a></td>
-                    <td>Resourcing</td>
-                    <td>Functional</td>
-                    <td>This report provides resource data for the PDG non-molecular project portfolio.   Note: Formerly known as oNMP Report</td>
-                    <td>Functional Management Resource Management Portfolio Management</td>
-                    <td>Daily</td>
-                    <td>Spotfire</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://pdspotfire.roche.com/spotfire/wp/ViewAnalysis.aspx?file=/PD%20Operations/PDG%20Managers/SourcingTrends" target="_blank">PDG Sourcing Trends Over Time</a></td>
                     <td>Portfolio</td>
                     <td>Functional</td>
@@ -13279,15 +13242,6 @@
                     <td>Business Objects</td>
                   </tr>
                   <tr>
-                    <td><a href="" target="_blank">RMO Operational Toolkit</a></td>
-                    <td>Performance</td>
-                    <td>Study</td>
-                    <td>Performance status of studies in terms of recruitment, timelines, quality across PD. It is a real time Book of Business summarizing PDG's health status on portfolio, deprtmental, study, country levels.</td>
-                    <td>Program Management Study Management</td>
-                    <td>Daily</td>
-                    <td>Tableau</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://pdspotfire.roche.com/spotfire/wp/ViewAnalysis.aspx?file=/PD%20Operations/PDG%20All/Resourcing_Report_PDG" target="_blank">Resourcing Report PDG</a></td>
                     <td>Resourcing</td>
                     <td>Program Study Country Functional</td>
@@ -13304,6 +13258,15 @@
                     <td>Program Management Resource Management</td>
                     <td>Daily</td>
                     <td>Excel</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">RMO Operational Toolkit</a></td>
+                    <td>Performance</td>
+                    <td>Study</td>
+                    <td>Performance status of studies in terms of recruitment, timelines, quality across PD. It is a real time Book of Business summarizing PDG's health status on portfolio, deprtmental, study, country levels.</td>
+                    <td>Program Management Study Management</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVqV9mDiHGJOhLIGE7SjZKQ" target="_blank">Sites Per Country</a></td>
@@ -15205,15 +15168,6 @@
                     <td>CTMS PlanSource PRP Study Optimizer Rave Goals Database PharmaRes MDMS Phase Ib Tracker IVRS (pending)</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AZZMrDRzrxxEricyE_1DQsE&sIDType=CUID" target="_blank">OPL and GSL Project Status Report</a></td>
-                    <td>Portfolio</td>
-                    <td>Study</td>
-                    <td>Summarized CTMS data updated daily for OPLs and GSLs to cut and past into Project status reports.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>CTMS</td>
-                  </tr>
-                  <tr>
                     <td><a href="" target="_blank">One Click Dashboard for GSx</a></td>
                     <td>Performance</td>
                     <td>Study</td>
@@ -15221,6 +15175,15 @@
                     <td>Daily</td>
                     <td>Tableau</td>
                     <td>CTMS, PRP, Study Optimizer, Rave</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AZZMrDRzrxxEricyE_1DQsE&sIDType=CUID" target="_blank">OPL and GSL Project Status Report</a></td>
+                    <td>Portfolio</td>
+                    <td>Study</td>
+                    <td>Summarized CTMS data updated daily for OPLs and GSLs to cut and past into Project status reports.</td>
+                    <td>Daily</td>
+                    <td>Business Objects</td>
+                    <td>CTMS</td>
                   </tr>
                   <tr>
                     <td><a href="https://sites.google.com/a/roche.com/patient-centric-tactics-hub/home" target="_blank">PATCH</a></td>
@@ -15331,15 +15294,6 @@
                     <td>PlanSource Quantum</td>
                   </tr>
                   <tr>
-                    <td><a href="" target="_blank">RMO Operational Toolkit</a></td>
-                    <td>Performance</td>
-                    <td>Study</td>
-                    <td>Performance status of studies in terms of recruitment, timelines, quality across PD. It is a real time Book of Business summarizing PDG's health status on portfolio, deprtmental, study, country levels.</td>
-                    <td>Daily</td>
-                    <td>Tableau</td>
-                    <td>CTMS, PRP, Study Optimizer, Rave, Plansource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://quantumreportsportal.roche.com/quantumPortal/home" target="_blank">Quantum Reports</a></td>
                     <td>Other</td>
                     <td>Departmental Program Study Country Site Patient Functional</td>
@@ -15356,6 +15310,15 @@
                     <td>Daily</td>
                     <td>Excel</td>
                     <td>PlanSource</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">RMO Operational Toolkit</a></td>
+                    <td>Performance</td>
+                    <td>Study</td>
+                    <td>Performance status of studies in terms of recruitment, timelines, quality across PD. It is a real time Book of Business summarizing PDG's health status on portfolio, deprtmental, study, country levels.</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>CTMS, PRP, Study Optimizer, Rave, Plansource</td>
                   </tr>
                   <tr>
                     <td><a href="https://searchxs.roche.com/#" target="_blank">searchXs (Search Across Systems)</a></td>
@@ -15678,20 +15641,20 @@
                     <td>CTMS PlanSource PRP Study Optimizer Rave Goals Database PharmaRes MDMS Phase Ib Tracker IVRS (pending)</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AZZMrDRzrxxEricyE_1DQsE&sIDType=CUID" target="_blank">OPL and GSL Project Status Report</a></td>
-                    <td>Study</td>
-                    <td>Summarized CTMS data updated daily for OPLs and GSLs to cut and past into Project status reports.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>CTMS</td>
-                  </tr>
-                  <tr>
                     <td><a href="" target="_blank">One Click Dashboard for GSx</a></td>
                     <td>Study</td>
                     <td>Performance status of studies in terms of recruitment, timelines, quality. Views designed to be more applicable for GSx roles. Data sources used are in line with TA Portal.</td>
                     <td>Daily</td>
                     <td>Tableau</td>
                     <td>CTMS, PRP, Study Optimizer, Rave</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AZZMrDRzrxxEricyE_1DQsE&sIDType=CUID" target="_blank">OPL and GSL Project Status Report</a></td>
+                    <td>Study</td>
+                    <td>Summarized CTMS data updated daily for OPLs and GSLs to cut and past into Project status reports.</td>
+                    <td>Daily</td>
+                    <td>Business Objects</td>
+                    <td>CTMS</td>
                   </tr>
                   <tr>
                     <td><a href="https://drive.google.com/drive/folders/0B3KGDRuGRJWeMUJLUkt3MV9yUlU" target="_blank">PDG Book of Business</a></td>
@@ -16241,20 +16204,20 @@
                     <td>CTMS</td>
                   </tr>
                   <tr>
-                    <td><a href="" target="_blank">RMO Operational Toolkit</a></td>
-                    <td>Performance</td>
-                    <td>Performance status of studies in terms of recruitment, timelines, quality across PD. It is a real time Book of Business summarizing PDG's health status on portfolio, deprtmental, study, country levels.</td>
-                    <td>Daily</td>
-                    <td>Tableau</td>
-                    <td>CTMS, PRP, Study Optimizer, Rave, Plansource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://145.245.44.246/index.aspx?report=RFPReport_Online" target="_blank">RFP Report (daily)</a></td>
                     <td>Resourcing</td>
                     <td>Provides an Excel extract in a pivot table format from PlanSource  that shows man year estimates of FTE and PVCs.</td>
                     <td>Daily</td>
                     <td>Excel</td>
                     <td>PlanSource</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">RMO Operational Toolkit</a></td>
+                    <td>Performance</td>
+                    <td>Performance status of studies in terms of recruitment, timelines, quality across PD. It is a real time Book of Business summarizing PDG's health status on portfolio, deprtmental, study, country levels.</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>CTMS, PRP, Study Optimizer, Rave, Plansource</td>
                   </tr>
                   <tr>
                     <td><a href="SMT Goals Overview" target="_blank">SMT Goals Overview</a></td>
@@ -16376,20 +16339,20 @@
                     <td>CTMS PlanSource PRP Study Optimizer Rave Goals Database PharmaRes MDMS Phase Ib Tracker IVRS (pending)</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AZZMrDRzrxxEricyE_1DQsE&sIDType=CUID" target="_blank">OPL and GSL Project Status Report</a></td>
-                    <td>Portfolio</td>
-                    <td>Summarized CTMS data updated daily for OPLs and GSLs to cut and past into Project status reports.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>CTMS</td>
-                  </tr>
-                  <tr>
                     <td><a href="" target="_blank">One Click Dashboard for GSx</a></td>
                     <td>Performance</td>
                     <td>Performance status of studies in terms of recruitment, timelines, quality. Views designed to be more applicable for GSx roles. Data sources used are in line with TA Portal.</td>
                     <td>Daily</td>
                     <td>Tableau</td>
                     <td>CTMS, PRP, Study Optimizer, Rave</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AZZMrDRzrxxEricyE_1DQsE&sIDType=CUID" target="_blank">OPL and GSL Project Status Report</a></td>
+                    <td>Portfolio</td>
+                    <td>Summarized CTMS data updated daily for OPLs and GSLs to cut and past into Project status reports.</td>
+                    <td>Daily</td>
+                    <td>Business Objects</td>
+                    <td>CTMS</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=ASfV54g2.tFIlYPvQf28clQ&sIDType=CUID" target="_blank">Portfolio Overview & Annual Trend</a></td>
@@ -16416,20 +16379,20 @@
                     <td>PlanSource Quantum</td>
                   </tr>
                   <tr>
-                    <td><a href="" target="_blank">RMO Operational Toolkit</a></td>
-                    <td>Performance</td>
-                    <td>Performance status of studies in terms of recruitment, timelines, quality across PD. It is a real time Book of Business summarizing PDG's health status on portfolio, deprtmental, study, country levels.</td>
-                    <td>Daily</td>
-                    <td>Tableau</td>
-                    <td>CTMS, PRP, Study Optimizer, Rave, Plansource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://145.245.44.246/index.aspx?report=RFPReport_Online" target="_blank">RFP Report (daily)</a></td>
                     <td>Resourcing</td>
                     <td>Provides an Excel extract in a pivot table format from PlanSource  that shows man year estimates of FTE and PVCs.</td>
                     <td>Daily</td>
                     <td>Excel</td>
                     <td>PlanSource</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">RMO Operational Toolkit</a></td>
+                    <td>Performance</td>
+                    <td>Performance status of studies in terms of recruitment, timelines, quality across PD. It is a real time Book of Business summarizing PDG's health status on portfolio, deprtmental, study, country levels.</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>CTMS, PRP, Study Optimizer, Rave, Plansource</td>
                   </tr>
                   <tr>
                     <td><a href="https://taportal.roche.com/" target="_blank">TA Portal</a></td>
@@ -16810,20 +16773,20 @@
                     <td>iPhone App</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AZZMrDRzrxxEricyE_1DQsE&sIDType=CUID" target="_blank">OPL and GSL Project Status Report</a></td>
-                    <td>Portfolio</td>
-                    <td>Study</td>
-                    <td>Summarized CTMS data updated daily for OPLs and GSLs to cut and past into Project status reports.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                  </tr>
-                  <tr>
                     <td><a href="" target="_blank">One Click Dashboard for GSx</a></td>
                     <td>Performance</td>
                     <td>Study</td>
                     <td>Performance status of studies in terms of recruitment, timelines, quality. Views designed to be more applicable for GSx roles. Data sources used are in line with TA Portal.</td>
                     <td>Daily</td>
                     <td>Tableau</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AZZMrDRzrxxEricyE_1DQsE&sIDType=CUID" target="_blank">OPL and GSL Project Status Report</a></td>
+                    <td>Portfolio</td>
+                    <td>Study</td>
+                    <td>Summarized CTMS data updated daily for OPLs and GSLs to cut and past into Project status reports.</td>
+                    <td>Daily</td>
+                    <td>Business Objects</td>
                   </tr>
                   <tr>
                     <td><a href="https://drive.google.com/drive/folders/0B3KGDRuGRJWeMUJLUkt3MV9yUlU" target="_blank">PDG Book of Business</a></td>
@@ -17171,20 +17134,20 @@
                     <td>Business Objects</td>
                   </tr>
                   <tr>
-                    <td><a href="" target="_blank">RMO Operational Toolkit</a></td>
-                    <td>Performance</td>
-                    <td>Study</td>
-                    <td>Performance status of studies in terms of recruitment, timelines, quality across PD. It is a real time Book of Business summarizing PDG's health status on portfolio, deprtmental, study, country levels.</td>
-                    <td>Daily</td>
-                    <td>Tableau</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://145.245.44.246/index.aspx?report=RFPReport_Online" target="_blank">RFP Report (daily)</a></td>
                     <td>Resourcing</td>
                     <td>Program Study Functional</td>
                     <td>Provides an Excel extract in a pivot table format from PlanSource  that shows man year estimates of FTE and PVCs.</td>
                     <td>Daily</td>
                     <td>Excel</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">RMO Operational Toolkit</a></td>
+                    <td>Performance</td>
+                    <td>Study</td>
+                    <td>Performance status of studies in terms of recruitment, timelines, quality across PD. It is a real time Book of Business summarizing PDG's health status on portfolio, deprtmental, study, country levels.</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
                   </tr>
                   <tr>
                     <td><a href="https://taportal.roche.com/" target="_blank">TA Portal</a></td>
@@ -18653,15 +18616,6 @@
                     <td>COGNOS</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AZZMrDRzrxxEricyE_1DQsE&sIDType=CUID" target="_blank">OPL and GSL Project Status Report</a></td>
-                    <td>Portfolio</td>
-                    <td>Study</td>
-                    <td>Summarized CTMS data updated daily for OPLs and GSLs to cut and past into Project status reports.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>CTMS</td>
-                  </tr>
-                  <tr>
                     <td><a href="" target="_blank">One Click Dashboard for GSx</a></td>
                     <td>Performance</td>
                     <td>Study</td>
@@ -18669,6 +18623,15 @@
                     <td>Daily</td>
                     <td>Tableau</td>
                     <td>CTMS, PRP, Study Optimizer, Rave</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AZZMrDRzrxxEricyE_1DQsE&sIDType=CUID" target="_blank">OPL and GSL Project Status Report</a></td>
+                    <td>Portfolio</td>
+                    <td>Study</td>
+                    <td>Summarized CTMS data updated daily for OPLs and GSLs to cut and past into Project status reports.</td>
+                    <td>Daily</td>
+                    <td>Business Objects</td>
+                    <td>CTMS</td>
                   </tr>
                   <tr>
                     <td><a href="https://sites.google.com/a/roche.com/patient-centric-tactics-hub/home" target="_blank">PATCH</a></td>
@@ -18869,15 +18832,6 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="" target="_blank">RMO Operational Toolkit</a></td>
-                    <td>Performance</td>
-                    <td>Study</td>
-                    <td>Performance status of studies in terms of recruitment, timelines, quality across PD. It is a real time Book of Business summarizing PDG's health status on portfolio, deprtmental, study, country levels.</td>
-                    <td>Daily</td>
-                    <td>Tableau</td>
-                    <td>CTMS, PRP, Study Optimizer, Rave, Plansource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=Adnn_PWOxOFDssN4lnGlEAY&sIDType=CUID" target="_blank">Q-Finance Accrual Journal Report</a></td>
                     <td>Financial</td>
                     <td>Study</td>
@@ -19002,6 +18956,15 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>CTMS</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">RMO Operational Toolkit</a></td>
+                    <td>Performance</td>
+                    <td>Study</td>
+                    <td>Performance status of studies in terms of recruitment, timelines, quality across PD. It is a real time Book of Business summarizing PDG's health status on portfolio, deprtmental, study, country levels.</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>CTMS, PRP, Study Optimizer, Rave, Plansource</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=ASiPOEqT9MxLutmcpKVQ8Io&sIDType=CUID" target="_blank">SAE List for Country</a></td>
@@ -20076,14 +20039,6 @@
                     <td>CTMS</td>
                   </tr>
                   <tr>
-                    <td><a href="" target="_blank">RMO Operational Toolkit</a></td>
-                    <td>Study</td>
-                    <td>Performance status of studies in terms of recruitment, timelines, quality across PD. It is a real time Book of Business summarizing PDG's health status on portfolio, deprtmental, study, country levels.</td>
-                    <td>Daily</td>
-                    <td>Tableau</td>
-                    <td>CTMS, PRP, Study Optimizer, Rave, Plansource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AW.qAEUaWFZEqF2zKdSRZ6Y&sIDType=CUID" target="_blank">Quarterly Snapshot - Recruiting Studies</a></td>
                     <td>Study Country Site</td>
                     <td>Metric takes a Snapshot of the enrollment status of all active sites that have been open for 3 months or more at the end of each Quarter.  This metric is more sensitive to changes in current practice than data presented in the Portfolio Overview and Annual Productivity Trends data.  It is a leading indicator of how annual site productivity and portfolio overview will read out in future.  Taken together, this information along with the Annual Site Productivity overview provides the best overview of site productivity.</td>
@@ -20098,6 +20053,14 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>CTMS</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">RMO Operational Toolkit</a></td>
+                    <td>Study</td>
+                    <td>Performance status of studies in terms of recruitment, timelines, quality across PD. It is a real time Book of Business summarizing PDG's health status on portfolio, deprtmental, study, country levels.</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>CTMS, PRP, Study Optimizer, Rave, Plansource</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbAIhKHu9QdGn8b0QSCyN5U" target="_blank">Site Activation Recruitment</a></td>
@@ -20299,20 +20262,20 @@
                     <td>CTMS PlanSource PRP Study Optimizer Rave Goals Database PharmaRes MDMS Phase Ib Tracker IVRS (pending)</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AZZMrDRzrxxEricyE_1DQsE&sIDType=CUID" target="_blank">OPL and GSL Project Status Report</a></td>
-                    <td>Study</td>
-                    <td>Summarized CTMS data updated daily for OPLs and GSLs to cut and past into Project status reports.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>CTMS</td>
-                  </tr>
-                  <tr>
                     <td><a href="" target="_blank">One Click Dashboard for GSx</a></td>
                     <td>Study</td>
                     <td>Performance status of studies in terms of recruitment, timelines, quality. Views designed to be more applicable for GSx roles. Data sources used are in line with TA Portal.</td>
                     <td>Daily</td>
                     <td>Tableau</td>
                     <td>CTMS, PRP, Study Optimizer, Rave</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AZZMrDRzrxxEricyE_1DQsE&sIDType=CUID" target="_blank">OPL and GSL Project Status Report</a></td>
+                    <td>Study</td>
+                    <td>Summarized CTMS data updated daily for OPLs and GSLs to cut and past into Project status reports.</td>
+                    <td>Daily</td>
+                    <td>Business Objects</td>
+                    <td>CTMS</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AeYuzKbWyQhAuwGG.xNYtDs&sIDType=CUID" target="_blank">pRED Study Listing</a></td>
@@ -20331,14 +20294,6 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="" target="_blank">RMO Operational Toolkit</a></td>
-                    <td>Study</td>
-                    <td>Performance status of studies in terms of recruitment, timelines, quality across PD. It is a real time Book of Business summarizing PDG's health status on portfolio, deprtmental, study, country levels.</td>
-                    <td>Daily</td>
-                    <td>Tableau</td>
-                    <td>CTMS, PRP, Study Optimizer, Rave, Plansource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbUUvfWiU6RNhf.rjduqFHg" target="_blank">Received Samples Report</a></td>
                     <td>Study Country Site</td>
                     <td>All Samples received by the sample handling labs in BRM.</td>
@@ -20353,6 +20308,14 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>Salome</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">RMO Operational Toolkit</a></td>
+                    <td>Study</td>
+                    <td>Performance status of studies in terms of recruitment, timelines, quality across PD. It is a real time Book of Business summarizing PDG's health status on portfolio, deprtmental, study, country levels.</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>CTMS, PRP, Study Optimizer, Rave, Plansource</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=ASiPOEqT9MxLutmcpKVQ8Io&sIDType=CUID" target="_blank">SAE List for Country</a></td>
@@ -21629,20 +21592,20 @@
                     <td>COGNOS</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AZZMrDRzrxxEricyE_1DQsE&sIDType=CUID" target="_blank">OPL and GSL Project Status Report</a></td>
-                    <td>Portfolio</td>
-                    <td>Summarized CTMS data updated daily for OPLs and GSLs to cut and past into Project status reports.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>CTMS</td>
-                  </tr>
-                  <tr>
                     <td><a href="" target="_blank">One Click Dashboard for GSx</a></td>
                     <td>Performance</td>
                     <td>Performance status of studies in terms of recruitment, timelines, quality. Views designed to be more applicable for GSx roles. Data sources used are in line with TA Portal.</td>
                     <td>Daily</td>
                     <td>Tableau</td>
                     <td>CTMS, PRP, Study Optimizer, Rave</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AZZMrDRzrxxEricyE_1DQsE&sIDType=CUID" target="_blank">OPL and GSL Project Status Report</a></td>
+                    <td>Portfolio</td>
+                    <td>Summarized CTMS data updated daily for OPLs and GSLs to cut and past into Project status reports.</td>
+                    <td>Daily</td>
+                    <td>Business Objects</td>
+                    <td>CTMS</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYJgemhXSsRAv_oE1DfO3po" target="_blank">PDG Cycle Time Metrics</a></td>
@@ -21757,14 +21720,6 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="" target="_blank">RMO Operational Toolkit</a></td>
-                    <td>Performance</td>
-                    <td>Performance status of studies in terms of recruitment, timelines, quality across PD. It is a real time Book of Business summarizing PDG's health status on portfolio, deprtmental, study, country levels.</td>
-                    <td>Daily</td>
-                    <td>Tableau</td>
-                    <td>CTMS, PRP, Study Optimizer, Rave, Plansource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=Adnn_PWOxOFDssN4lnGlEAY&sIDType=CUID" target="_blank">Q-Finance Accrual Journal Report</a></td>
                     <td>Financial</td>
                     <td>This report enables the simple transfer of calculated accrual information from QFinance into the standard SAP journal entry template (for posting in SAP)</td>
@@ -21867,6 +21822,14 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>CTMS</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">RMO Operational Toolkit</a></td>
+                    <td>Performance</td>
+                    <td>Performance status of studies in terms of recruitment, timelines, quality across PD. It is a real time Book of Business summarizing PDG's health status on portfolio, deprtmental, study, country levels.</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>CTMS, PRP, Study Optimizer, Rave, Plansource</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=ASiPOEqT9MxLutmcpKVQ8Io&sIDType=CUID" target="_blank">SAE List for Country</a></td>
@@ -24047,20 +24010,20 @@
                     <td>Spotfire via Compliance Machine</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AZZMrDRzrxxEricyE_1DQsE&sIDType=CUID" target="_blank">OPL and GSL Project Status Report</a></td>
-                    <td>Portfolio</td>
-                    <td>Study</td>
-                    <td>Summarized CTMS data updated daily for OPLs and GSLs to cut and past into Project status reports.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                  </tr>
-                  <tr>
                     <td><a href="" target="_blank">One Click Dashboard for GSx</a></td>
                     <td>Performance</td>
                     <td>Study</td>
                     <td>Performance status of studies in terms of recruitment, timelines, quality. Views designed to be more applicable for GSx roles. Data sources used are in line with TA Portal.</td>
                     <td>Daily</td>
                     <td>Tableau</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AZZMrDRzrxxEricyE_1DQsE&sIDType=CUID" target="_blank">OPL and GSL Project Status Report</a></td>
+                    <td>Portfolio</td>
+                    <td>Study</td>
+                    <td>Summarized CTMS data updated daily for OPLs and GSLs to cut and past into Project status reports.</td>
+                    <td>Daily</td>
+                    <td>Business Objects</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYJgemhXSsRAv_oE1DfO3po" target="_blank">PDG Cycle Time Metrics</a></td>
@@ -24111,14 +24074,6 @@
                     <td>gDrive</td>
                   </tr>
                   <tr>
-                    <td><a href="" target="_blank">RMO Operational Toolkit</a></td>
-                    <td>Performance</td>
-                    <td>Study</td>
-                    <td>Performance status of studies in terms of recruitment, timelines, quality across PD. It is a real time Book of Business summarizing PDG's health status on portfolio, deprtmental, study, country levels.</td>
-                    <td>Daily</td>
-                    <td>Tableau</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYMQIUPtjBdHmlxzwDraMys" target="_blank">Quantum Data Quality for Country</a></td>
                     <td>Data Quality</td>
                     <td>Study Country</td>
@@ -24141,6 +24096,14 @@
                     <td>See Report Info tab for detailed description</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">RMO Operational Toolkit</a></td>
+                    <td>Performance</td>
+                    <td>Study</td>
+                    <td>Performance status of studies in terms of recruitment, timelines, quality across PD. It is a real time Book of Business summarizing PDG's health status on portfolio, deprtmental, study, country levels.</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=ASiPOEqT9MxLutmcpKVQ8Io&sIDType=CUID" target="_blank">SAE List for Country</a></td>
@@ -26857,15 +26820,6 @@
                     <td>PRP</td>
                   </tr>
                   <tr>
-                    <td><a href="" target="_blank">READ</a></td>
-                    <td>Compliance</td>
-                    <td>Study</td>
-                    <td>Affiliate Study teams to have oversight of their patient data and CRA activity related to data.</td>
-                    <td>Daily</td>
-                    <td>Spotfire</td>
-                    <td>RAVE</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYMQIUPtjBdHmlxzwDraMys" target="_blank">Quantum Data Quality for Country</a></td>
                     <td>Data Quality</td>
                     <td>Study Country</td>
@@ -26918,6 +26872,15 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>CTMS</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">READ</a></td>
+                    <td>Compliance</td>
+                    <td>Study</td>
+                    <td>Affiliate Study teams to have oversight of their patient data and CRA activity related to data.</td>
+                    <td>Daily</td>
+                    <td>Spotfire</td>
+                    <td>RAVE</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbUUvfWiU6RNhf.rjduqFHg" target="_blank">Received Samples Report</a></td>
@@ -27805,14 +27768,6 @@
                     <td>CTMS eTMF PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="" target="_blank">READ</a></td>
-                    <td>Study</td>
-                    <td>Affiliate Study teams to have oversight of their patient data and CRA activity related to data.</td>
-                    <td>Daily</td>
-                    <td>Spotfire</td>
-                    <td>RAVE</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYMQIUPtjBdHmlxzwDraMys" target="_blank">Quantum Data Quality for Country</a></td>
                     <td>Study Country</td>
                     <td>The report provides a list of data quality issues for the selected study(s). All the information required for the location identification and resolution of the issues is provided to the user.</td>
@@ -27827,6 +27782,14 @@
                     <td>Daily</td>
                     <td>Business Objects via Compliance Machine</td>
                     <td>Quantum</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">READ</a></td>
+                    <td>Study</td>
+                    <td>Affiliate Study teams to have oversight of their patient data and CRA activity related to data.</td>
+                    <td>Daily</td>
+                    <td>Spotfire</td>
+                    <td>RAVE</td>
                   </tr>
                   </tbody>
                 </table>
@@ -29476,14 +29439,6 @@
                     <td>PRP</td>
                   </tr>
                   <tr>
-                    <td><a href="" target="_blank">READ</a></td>
-                    <td>Compliance</td>
-                    <td>Affiliate Study teams to have oversight of their patient data and CRA activity related to data.</td>
-                    <td>Daily</td>
-                    <td>Spotfire</td>
-                    <td>RAVE</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYMQIUPtjBdHmlxzwDraMys" target="_blank">Quantum Data Quality for Country</a></td>
                     <td>Data Quality</td>
                     <td>The report provides a list of data quality issues for the selected study(s). All the information required for the location identification and resolution of the issues is provided to the user.</td>
@@ -29514,6 +29469,14 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>CTMS</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">READ</a></td>
+                    <td>Compliance</td>
+                    <td>Affiliate Study teams to have oversight of their patient data and CRA activity related to data.</td>
+                    <td>Daily</td>
+                    <td>Spotfire</td>
+                    <td>RAVE</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbUUvfWiU6RNhf.rjduqFHg" target="_blank">Received Samples Report</a></td>
@@ -30379,14 +30342,6 @@
                     <td>PRP</td>
                   </tr>
                   <tr>
-                    <td><a href="" target="_blank">READ</a></td>
-                    <td>Compliance</td>
-                    <td>Affiliate Study teams to have oversight of their patient data and CRA activity related to data.</td>
-                    <td>Daily</td>
-                    <td>Spotfire</td>
-                    <td>RAVE</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYMQIUPtjBdHmlxzwDraMys" target="_blank">Quantum Data Quality for Country</a></td>
                     <td>Data Quality</td>
                     <td>The report provides a list of data quality issues for the selected study(s). All the information required for the location identification and resolution of the issues is provided to the user.</td>
@@ -30425,6 +30380,14 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>CTMS</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">READ</a></td>
+                    <td>Compliance</td>
+                    <td>Affiliate Study teams to have oversight of their patient data and CRA activity related to data.</td>
+                    <td>Daily</td>
+                    <td>Spotfire</td>
+                    <td>RAVE</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbUUvfWiU6RNhf.rjduqFHg" target="_blank">Received Samples Report</a></td>
@@ -31162,14 +31125,6 @@
                     <td>PRP</td>
                   </tr>
                   <tr>
-                    <td><a href="" target="_blank">READ</a></td>
-                    <td>Compliance</td>
-                    <td>Affiliate Study teams to have oversight of their patient data and CRA activity related to data.</td>
-                    <td>Daily</td>
-                    <td>Spotfire</td>
-                    <td>RAVE</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AU89ZKmzxENHtuBqwV2dqBE&sIDType=CUID" target="_blank">Quantum Monthly F&G Investigator Costs Report</a></td>
                     <td>Financial</td>
                     <td>Detailed report  of the payments for completed work at Investigational  sites during a defined period (Pro Forma invoice if sites do not send invoices for Investigator Fees & Grants)</td>
@@ -31184,6 +31139,14 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>CTMS</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">READ</a></td>
+                    <td>Compliance</td>
+                    <td>Affiliate Study teams to have oversight of their patient data and CRA activity related to data.</td>
+                    <td>Daily</td>
+                    <td>Spotfire</td>
+                    <td>RAVE</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbUUvfWiU6RNhf.rjduqFHg" target="_blank">Received Samples Report</a></td>
@@ -32174,14 +32137,6 @@
                     <td>Spotfire</td>
                   </tr>
                   <tr>
-                    <td><a href="" target="_blank">READ</a></td>
-                    <td>Compliance</td>
-                    <td>Study</td>
-                    <td>Affiliate Study teams to have oversight of their patient data and CRA activity related to data.</td>
-                    <td>Daily</td>
-                    <td>Spotfire</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYMQIUPtjBdHmlxzwDraMys" target="_blank">Quantum Data Quality for Country</a></td>
                     <td>Data Quality</td>
                     <td>Study Country</td>
@@ -32212,6 +32167,14 @@
                     <td>Metric takes a Snapshot of the enrollment status of all active sites that have been open for 3 months or more at the end of each Quarter.  This metric is more sensitive to changes in current practice than data presented in the Portfolio Overview and Annual Productivity Trends data.  It is a leading indicator of how annual site productivity and portfolio overview will read out in future.  Taken together, this information along with the Annual Site Productivity overview provides the best overview of site productivity.</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
+                  </tr>
+                  <tr>
+                    <td><a href="" target="_blank">READ</a></td>
+                    <td>Compliance</td>
+                    <td>Study</td>
+                    <td>Affiliate Study teams to have oversight of their patient data and CRA activity related to data.</td>
+                    <td>Daily</td>
+                    <td>Spotfire</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AXjTYIEwR6ZMmkZ0CbjdZ8I&sIDType=CUID" target="_blank">Recruitment & Screening Oversight</a></td>
@@ -34759,15 +34722,6 @@
                     <td>CTMS</td>
                   </tr>
                   <tr>
-                    <td><a href="http://pdspotfire.roche.com/spotfire/wp/ViewAnalysis.aspx?file=/PD%20Operations/PD%20NMP/ONMP%20Report%20PlanSource-embedded" target="_blank">PDG Non-Molecular Portfolio Report</a></td>
-                    <td>Resourcing</td>
-                    <td>Functional</td>
-                    <td>This report provides resource data for the PDG non-molecular project portfolio.   Note: Formerly known as oNMP Report</td>
-                    <td>Daily</td>
-                    <td>Spotfire</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://pdspotfire.roche.com/spotfire/wp/ViewAnalysis.aspx?file=/PD%20Operations/PDG%20Managers/SourcingTrends" target="_blank">PDG Sourcing Trends Over Time</a></td>
                     <td>Portfolio</td>
                     <td>Functional</td>
@@ -36071,14 +36025,6 @@
                     <td>T Rounds</td>
                     <td>Spotfire</td>
                     <td>PlanSource PlanET</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://pdspotfire.roche.com/spotfire/wp/ViewAnalysis.aspx?file=/PD%20Operations/PD%20NMP/ONMP%20Report%20PlanSource-embedded" target="_blank">PDG Non-Molecular Portfolio Report</a></td>
-                    <td>Functional</td>
-                    <td>This report provides resource data for the PDG non-molecular project portfolio.   Note: Formerly known as oNMP Report</td>
-                    <td>Daily</td>
-                    <td>Spotfire</td>
-                    <td>PlanSource</td>
                   </tr>
                   <tr>
                     <td><a href="http://pdspotfire.roche.com/spotfire/wp/ViewAnalysis.aspx?file=/PD%20Operations/PDG%20Managers/Timesheet%20Compliance" target="_blank">PDG Timesheet Compliance Report</a></td>
@@ -37761,14 +37707,6 @@
                     <td>PlanSource PlanET</td>
                   </tr>
                   <tr>
-                    <td><a href="http://pdspotfire.roche.com/spotfire/wp/ViewAnalysis.aspx?file=/PD%20Operations/PD%20NMP/ONMP%20Report%20PlanSource-embedded" target="_blank">PDG Non-Molecular Portfolio Report</a></td>
-                    <td>Resourcing</td>
-                    <td>This report provides resource data for the PDG non-molecular project portfolio.   Note: Formerly known as oNMP Report</td>
-                    <td>Daily</td>
-                    <td>Spotfire</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://pdspotfire.roche.com/spotfire/wp/ViewAnalysis.aspx?file=/PD%20Operations/PDG%20Managers/SourcingTrends" target="_blank">PDG Sourcing Trends Over Time</a></td>
                     <td>Portfolio</td>
                     <td>This report shows sourcing trends over time for PDG conducted studies by phase</td>
@@ -38829,14 +38767,6 @@
                     <td>Functional</td>
                     <td>This report provides an overview of the last three budget snapshots and highlights demand variances for the molecular and non-molecular portfolios.</td>
                     <td>T Rounds</td>
-                    <td>Spotfire</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://pdspotfire.roche.com/spotfire/wp/ViewAnalysis.aspx?file=/PD%20Operations/PD%20NMP/ONMP%20Report%20PlanSource-embedded" target="_blank">PDG Non-Molecular Portfolio Report</a></td>
-                    <td>Resourcing</td>
-                    <td>Functional</td>
-                    <td>This report provides resource data for the PDG non-molecular project portfolio.   Note: Formerly known as oNMP Report</td>
-                    <td>Daily</td>
                     <td>Spotfire</td>
                   </tr>
                   <tr>
@@ -40366,15 +40296,6 @@
                     <td>CTMS</td>
                   </tr>
                   <tr>
-                    <td><a href="http://pdspotfire.roche.com/spotfire/wp/ViewAnalysis.aspx?file=/PD%20Operations/PD%20NMP/ONMP%20Report%20PlanSource-embedded" target="_blank">PDG Non-Molecular Portfolio Report</a></td>
-                    <td>Resourcing</td>
-                    <td>Functional</td>
-                    <td>This report provides resource data for the PDG non-molecular project portfolio.   Note: Formerly known as oNMP Report</td>
-                    <td>Daily</td>
-                    <td>Spotfire</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://pdspotfire.roche.com/spotfire/wp/ViewAnalysis.aspx?file=/PD%20Operations/PDG%20Managers/Timesheet%20Compliance" target="_blank">PDG Timesheet Compliance Report</a></td>
                     <td>Resourcing</td>
                     <td>Functional</td>
@@ -41309,14 +41230,6 @@
                     <td>T Rounds</td>
                     <td>Spotfire</td>
                     <td>PlanSource PlanET</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://pdspotfire.roche.com/spotfire/wp/ViewAnalysis.aspx?file=/PD%20Operations/PD%20NMP/ONMP%20Report%20PlanSource-embedded" target="_blank">PDG Non-Molecular Portfolio Report</a></td>
-                    <td>Functional</td>
-                    <td>This report provides resource data for the PDG non-molecular project portfolio.   Note: Formerly known as oNMP Report</td>
-                    <td>Daily</td>
-                    <td>Spotfire</td>
-                    <td>PlanSource</td>
                   </tr>
                   <tr>
                     <td><a href="http://pdspotfire.roche.com/spotfire/wp/ViewAnalysis.aspx?file=/PD%20Operations/PDG%20Managers/Timesheet%20Compliance" target="_blank">PDG Timesheet Compliance Report</a></td>
@@ -42607,14 +42520,6 @@
                     <td>PlanSource PlanET</td>
                   </tr>
                   <tr>
-                    <td><a href="http://pdspotfire.roche.com/spotfire/wp/ViewAnalysis.aspx?file=/PD%20Operations/PD%20NMP/ONMP%20Report%20PlanSource-embedded" target="_blank">PDG Non-Molecular Portfolio Report</a></td>
-                    <td>Resourcing</td>
-                    <td>This report provides resource data for the PDG non-molecular project portfolio.   Note: Formerly known as oNMP Report</td>
-                    <td>Daily</td>
-                    <td>Spotfire</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://pdspotfire.roche.com/spotfire/wp/ViewAnalysis.aspx?file=/PD%20Operations/PDG%20Managers/Timesheet%20Compliance" target="_blank">PDG Timesheet Compliance Report</a></td>
                     <td>Resourcing</td>
                     <td>This report provides PDG staff timecoding details.</td>
@@ -43443,14 +43348,6 @@
                     <td>Functional</td>
                     <td>This report provides an overview of the last three budget snapshots and highlights demand variances for the molecular and non-molecular portfolios.</td>
                     <td>T Rounds</td>
-                    <td>Spotfire</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://pdspotfire.roche.com/spotfire/wp/ViewAnalysis.aspx?file=/PD%20Operations/PD%20NMP/ONMP%20Report%20PlanSource-embedded" target="_blank">PDG Non-Molecular Portfolio Report</a></td>
-                    <td>Resourcing</td>
-                    <td>Functional</td>
-                    <td>This report provides resource data for the PDG non-molecular project portfolio.   Note: Formerly known as oNMP Report</td>
-                    <td>Daily</td>
                     <td>Spotfire</td>
                   </tr>
                   <tr>
