@@ -3184,6 +3184,26 @@
                     <td>Business Objects</td>
                     <td>PlanSource</td>
                   </tr>
+                  <tr>
+                    <td><a href="https://tabemea.roche.com/views/TurnoverRate/Dashboard1?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">Turnover Rate</a></td>
+                    <td>Resourcing</td>
+                    <td>Functional</td>
+                    <td>Provides Turnover rate as well as New starters data for all PDG departments</td>
+                    <td>Resource Management</td>
+                    <td>Mo</td>
+                    <td>Tableau</td>
+                    <td>Pharmares</td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
+                    <td>Other</td>
+                    <td>Functional</td>
+                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
+                    <td>Vendor Services</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>CTMS</td>
+                  </tr>
                   </tbody>
                 </table>
               </div></div>
@@ -5823,6 +5843,15 @@
                     <td>Business Objects</td>
                     <td>PlanSource</td>
                   </tr>
+                  <tr>
+                    <td><a href="https://tabemea.roche.com/views/TurnoverRate/Dashboard1?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">Turnover Rate</a></td>
+                    <td>Functional</td>
+                    <td>Provides Turnover rate as well as New starters data for all PDG departments</td>
+                    <td>Resource Management</td>
+                    <td>Mo</td>
+                    <td>Tableau</td>
+                    <td>Pharmares</td>
+                  </tr>
                   </tbody>
                 </table>
               </div></div>
@@ -6072,6 +6101,15 @@
                     <td>Live</td>
                     <td>Internet</td>
                     <td>Other</td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
+                    <td>Functional</td>
+                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
+                    <td>Vendor Services</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>CTMS</td>
                   </tr>
                   </tbody>
                 </table>
@@ -10757,6 +10795,24 @@
                     <td>Business Objects</td>
                     <td>PlanSource</td>
                   </tr>
+                  <tr>
+                    <td><a href="https://tabemea.roche.com/views/TurnoverRate/Dashboard1?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">Turnover Rate</a></td>
+                    <td>Resourcing</td>
+                    <td>Provides Turnover rate as well as New starters data for all PDG departments</td>
+                    <td>Resource Management</td>
+                    <td>Mo</td>
+                    <td>Tableau</td>
+                    <td>Pharmares</td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
+                    <td>Other</td>
+                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
+                    <td>Vendor Services</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>CTMS</td>
+                  </tr>
                   </tbody>
                 </table>
               </div></div>
@@ -12139,6 +12195,15 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                   </tr>
+                  <tr>
+                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
+                    <td>Other</td>
+                    <td>Functional</td>
+                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
+                    <td>Vendor Services</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                  </tr>
                   </tbody>
                 </table>
               </div></div>
@@ -12666,6 +12731,15 @@
                     <td>Program Management Study Management Country Management Site Management</td>
                     <td>Live</td>
                     <td>TA Portal</td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://tabemea.roche.com/views/TurnoverRate/Dashboard1?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">Turnover Rate</a></td>
+                    <td>Resourcing</td>
+                    <td>Functional</td>
+                    <td>Provides Turnover rate as well as New starters data for all PDG departments</td>
+                    <td>Resource Management</td>
+                    <td>Mo</td>
+                    <td>Tableau</td>
                   </tr>
                   </tbody>
                 </table>
@@ -35162,6 +35236,24 @@
                     <td>Business Objects</td>
                     <td>PlanSource</td>
                   </tr>
+                  <tr>
+                    <td><a href="https://tabemea.roche.com/views/TurnoverRate/Dashboard1?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">Turnover Rate</a></td>
+                    <td>Resourcing</td>
+                    <td>Functional</td>
+                    <td>Provides Turnover rate as well as New starters data for all PDG departments</td>
+                    <td>Mo</td>
+                    <td>Tableau</td>
+                    <td>Pharmares</td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
+                    <td>Other</td>
+                    <td>Functional</td>
+                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>CTMS</td>
+                  </tr>
                   </tbody>
                 </table>
               </div></div>
@@ -36154,6 +36246,14 @@
                     <td>Business Objects</td>
                     <td>PlanSource</td>
                   </tr>
+                  <tr>
+                    <td><a href="https://tabemea.roche.com/views/TurnoverRate/Dashboard1?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">Turnover Rate</a></td>
+                    <td>Functional</td>
+                    <td>Provides Turnover rate as well as New starters data for all PDG departments</td>
+                    <td>Mo</td>
+                    <td>Tableau</td>
+                    <td>Pharmares</td>
+                  </tr>
                   </tbody>
                 </table>
               </div></div>
@@ -36368,6 +36468,14 @@
                     <td>Live</td>
                     <td>Internet</td>
                     <td>Other</td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
+                    <td>Functional</td>
+                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>CTMS</td>
                   </tr>
                   </tbody>
                 </table>
@@ -37914,6 +38022,22 @@
                     <td>Business Objects</td>
                     <td>PlanSource</td>
                   </tr>
+                  <tr>
+                    <td><a href="https://tabemea.roche.com/views/TurnoverRate/Dashboard1?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">Turnover Rate</a></td>
+                    <td>Resourcing</td>
+                    <td>Provides Turnover rate as well as New starters data for all PDG departments</td>
+                    <td>Mo</td>
+                    <td>Tableau</td>
+                    <td>Pharmares</td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
+                    <td>Other</td>
+                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>CTMS</td>
+                  </tr>
                   </tbody>
                 </table>
               </div></div>
@@ -38151,6 +38275,14 @@
                     <td>Contains metrics for monitoring visits and site visit report submission.  Limited to 2017. United States only.</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
+                    <td>Other</td>
+                    <td>Functional</td>
+                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
                   </tr>
                   </tbody>
                 </table>
@@ -38433,6 +38565,14 @@
                     <td>This report provides an overview of turnover rates for PDG sub departments by site and resource type</td>
                     <td>Quarterly</td>
                     <td>Spotfire</td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://tabemea.roche.com/views/TurnoverRate/Dashboard1?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">Turnover Rate</a></td>
+                    <td>Resourcing</td>
+                    <td>Functional</td>
+                    <td>Provides Turnover rate as well as New starters data for all PDG departments</td>
+                    <td>Mo</td>
+                    <td>Tableau</td>
                   </tr>
                   </tbody>
                 </table>
@@ -40655,6 +40795,24 @@
                     <td>Business Objects</td>
                     <td>PlanSource</td>
                   </tr>
+                  <tr>
+                    <td><a href="https://tabemea.roche.com/views/TurnoverRate/Dashboard1?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">Turnover Rate</a></td>
+                    <td>Resourcing</td>
+                    <td>Functional</td>
+                    <td>Provides Turnover rate as well as New starters data for all PDG departments</td>
+                    <td>Mo</td>
+                    <td>Tableau</td>
+                    <td>Pharmares</td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
+                    <td>Other</td>
+                    <td>Functional</td>
+                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>CTMS</td>
+                  </tr>
                   </tbody>
                 </table>
               </div></div>
@@ -41415,6 +41573,14 @@
                     <td>Business Objects</td>
                     <td>PlanSource</td>
                   </tr>
+                  <tr>
+                    <td><a href="https://tabemea.roche.com/views/TurnoverRate/Dashboard1?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">Turnover Rate</a></td>
+                    <td>Functional</td>
+                    <td>Provides Turnover rate as well as New starters data for all PDG departments</td>
+                    <td>Mo</td>
+                    <td>Tableau</td>
+                    <td>Pharmares</td>
+                  </tr>
                   </tbody>
                 </table>
               </div></div>
@@ -41629,6 +41795,14 @@
                     <td>Live</td>
                     <td>Internet</td>
                     <td>Other</td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
+                    <td>Functional</td>
+                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>CTMS</td>
                   </tr>
                   </tbody>
                 </table>
@@ -42679,6 +42853,22 @@
                     <td>Business Objects</td>
                     <td>PlanSource</td>
                   </tr>
+                  <tr>
+                    <td><a href="https://tabemea.roche.com/views/TurnoverRate/Dashboard1?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">Turnover Rate</a></td>
+                    <td>Resourcing</td>
+                    <td>Provides Turnover rate as well as New starters data for all PDG departments</td>
+                    <td>Mo</td>
+                    <td>Tableau</td>
+                    <td>Pharmares</td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
+                    <td>Other</td>
+                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>CTMS</td>
+                  </tr>
                   </tbody>
                 </table>
               </div></div>
@@ -42860,6 +43050,14 @@
                     <td>Provides data listing of the study milestones for planned and actual dates for a selected data set.</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
+                    <td>Other</td>
+                    <td>Functional</td>
+                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
                   </tr>
                   </tbody>
                 </table>
@@ -43070,6 +43268,14 @@
                     <td>This report provides resource data for the PDG project portfolio highlighting resource analysis and details including demand, supply and timecoding actuals.</td>
                     <td>2 times/week</td>
                     <td>Spotfire</td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://tabemea.roche.com/views/TurnoverRate/Dashboard1?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">Turnover Rate</a></td>
+                    <td>Resourcing</td>
+                    <td>Functional</td>
+                    <td>Provides Turnover rate as well as New starters data for all PDG departments</td>
+                    <td>Mo</td>
+                    <td>Tableau</td>
                   </tr>
                   </tbody>
                 </table>
