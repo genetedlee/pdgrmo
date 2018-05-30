@@ -755,6 +755,16 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
+                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
+                    <td>Other</td>
+                    <td>Functional</td>
+                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
+                    <td>Vendor Services</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>CTMS</td>
+                  </tr>
+                  <tr>
                     <td><a href="" target="_blank">CRO DQ Metrics (x4 Quintiles, Covance, PPD, PRA)</a></td>
                     <td>Data Quality</td>
                     <td>Study</td>
@@ -3125,6 +3135,16 @@
                     <td>Other</td>
                   </tr>
                   <tr>
+                    <td><a href="https://tabemea.roche.com/views/TurnoverRate/Dashboard1?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">Turnover Rate</a></td>
+                    <td>Resourcing</td>
+                    <td>Functional</td>
+                    <td>Provides Turnover rate as well as New starters data for all PDG departments</td>
+                    <td>Resource Management</td>
+                    <td>Mo</td>
+                    <td>Tableau</td>
+                    <td>Pharmares</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AePSTkEUm3pArLCpu.n6rFQ" target="_blank">United States Resourcing - Off-Line Demand Calculation Tool 2015_09_04</a></td>
                     <td>Resourcing</td>
                     <td>Functional</td>
@@ -3183,26 +3203,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://tabemea.roche.com/views/TurnoverRate/Dashboard1?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">Turnover Rate</a></td>
-                    <td>Resourcing</td>
-                    <td>Functional</td>
-                    <td>Provides Turnover rate as well as New starters data for all PDG departments</td>
-                    <td>Resource Management</td>
-                    <td>Mo</td>
-                    <td>Tableau</td>
-                    <td>Pharmares</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
-                    <td>Other</td>
-                    <td>Functional</td>
-                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
-                    <td>Vendor Services</td>
-                    <td>Daily</td>
-                    <td>Tableau</td>
-                    <td>CTMS</td>
                   </tr>
                   </tbody>
                 </table>
@@ -5826,6 +5826,15 @@
                     <td>Timesheets</td>
                   </tr>
                   <tr>
+                    <td><a href="https://tabemea.roche.com/views/TurnoverRate/Dashboard1?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">Turnover Rate</a></td>
+                    <td>Functional</td>
+                    <td>Provides Turnover rate as well as New starters data for all PDG departments</td>
+                    <td>Resource Management</td>
+                    <td>Mo</td>
+                    <td>Tableau</td>
+                    <td>Pharmares</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AePSTkEUm3pArLCpu.n6rFQ" target="_blank">United States Resourcing - Off-Line Demand Calculation Tool 2015_09_04</a></td>
                     <td>Functional</td>
                     <td>Excel algo calculation tool</td>
@@ -5842,15 +5851,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://tabemea.roche.com/views/TurnoverRate/Dashboard1?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">Turnover Rate</a></td>
-                    <td>Functional</td>
-                    <td>Provides Turnover rate as well as New starters data for all PDG departments</td>
-                    <td>Resource Management</td>
-                    <td>Mo</td>
-                    <td>Tableau</td>
-                    <td>Pharmares</td>
                   </tr>
                   </tbody>
                 </table>
@@ -5932,6 +5932,15 @@
                     <td>Other</td>
                   </tr>
                   <tr>
+                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
+                    <td>Functional</td>
+                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
+                    <td>Vendor Services</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>CTMS</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://ctmsreportsportal.roche.com/ctmsPortal/home" target="_blank">CTMS Reports</a></td>
                     <td>Departmental Program Study Country Site Patient Functional</td>
                     <td>CTMS is a central repository for study information on all Roche sponsored and supported trials. The CTMS Reports Portal is your optimized area for CTMS Business Objects reports.</td>
@@ -6101,15 +6110,6 @@
                     <td>Live</td>
                     <td>Internet</td>
                     <td>Other</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
-                    <td>Functional</td>
-                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
-                    <td>Vendor Services</td>
-                    <td>Daily</td>
-                    <td>Tableau</td>
-                    <td>CTMS</td>
                   </tr>
                   </tbody>
                 </table>
@@ -10121,6 +10121,15 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
+                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
+                    <td>Other</td>
+                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
+                    <td>Vendor Services</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>CTMS</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Acwd.w9Uaa1BgNbB7Rg77jc" target="_blank">CSR&D - Actuals Report over Time (North America) (Carlos Portillo) Ver: New March 2013?Last Run May1,2017</a></td>
                     <td>Resourcing</td>
                     <td>List timesheet actuals for CCO in Canada.</td>
@@ -10778,6 +10787,15 @@
                     <td>Timesheets</td>
                   </tr>
                   <tr>
+                    <td><a href="https://tabemea.roche.com/views/TurnoverRate/Dashboard1?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">Turnover Rate</a></td>
+                    <td>Resourcing</td>
+                    <td>Provides Turnover rate as well as New starters data for all PDG departments</td>
+                    <td>Resource Management</td>
+                    <td>Mo</td>
+                    <td>Tableau</td>
+                    <td>Pharmares</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AePSTkEUm3pArLCpu.n6rFQ" target="_blank">United States Resourcing - Off-Line Demand Calculation Tool 2015_09_04</a></td>
                     <td>Resourcing</td>
                     <td>Excel algo calculation tool</td>
@@ -10794,24 +10812,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://tabemea.roche.com/views/TurnoverRate/Dashboard1?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">Turnover Rate</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides Turnover rate as well as New starters data for all PDG departments</td>
-                    <td>Resource Management</td>
-                    <td>Mo</td>
-                    <td>Tableau</td>
-                    <td>Pharmares</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
-                    <td>Other</td>
-                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
-                    <td>Vendor Services</td>
-                    <td>Daily</td>
-                    <td>Tableau</td>
-                    <td>CTMS</td>
                   </tr>
                   </tbody>
                 </table>
@@ -11096,6 +11096,15 @@
                     <td>Country Management</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
+                    <td>Other</td>
+                    <td>Functional</td>
+                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
+                    <td>Vendor Services</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
                   </tr>
                   <tr>
                     <td><a href="" target="_blank">CRO DQ Metrics (x4 Quintiles, Covance, PPD, PRA)</a></td>
@@ -12194,15 +12203,6 @@
                     <td>Study Management Country Management</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
-                    <td>Other</td>
-                    <td>Functional</td>
-                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
-                    <td>Vendor Services</td>
-                    <td>Daily</td>
-                    <td>Tableau</td>
                   </tr>
                   </tbody>
                 </table>
@@ -34283,6 +34283,15 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
+                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
+                    <td>Other</td>
+                    <td>Functional</td>
+                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>CTMS</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Acwd.w9Uaa1BgNbB7Rg77jc" target="_blank">CSR&D - Actuals Report over Time (North America) (Carlos Portillo) Ver: New March 2013?Last Run May1,2017</a></td>
                     <td>Resourcing</td>
                     <td>Functional</td>
@@ -35201,6 +35210,15 @@
                     <td>Other</td>
                   </tr>
                   <tr>
+                    <td><a href="https://tabemea.roche.com/views/TurnoverRate/Dashboard1?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">Turnover Rate</a></td>
+                    <td>Resourcing</td>
+                    <td>Functional</td>
+                    <td>Provides Turnover rate as well as New starters data for all PDG departments</td>
+                    <td>Mo</td>
+                    <td>Tableau</td>
+                    <td>Pharmares</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AePSTkEUm3pArLCpu.n6rFQ" target="_blank">United States Resourcing - Off-Line Demand Calculation Tool 2015_09_04</a></td>
                     <td>Resourcing</td>
                     <td>Functional</td>
@@ -35235,24 +35253,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://tabemea.roche.com/views/TurnoverRate/Dashboard1?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">Turnover Rate</a></td>
-                    <td>Resourcing</td>
-                    <td>Functional</td>
-                    <td>Provides Turnover rate as well as New starters data for all PDG departments</td>
-                    <td>Mo</td>
-                    <td>Tableau</td>
-                    <td>Pharmares</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
-                    <td>Other</td>
-                    <td>Functional</td>
-                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
-                    <td>Daily</td>
-                    <td>Tableau</td>
-                    <td>CTMS</td>
                   </tr>
                   </tbody>
                 </table>
@@ -36231,6 +36231,14 @@
                     <td>Timesheets</td>
                   </tr>
                   <tr>
+                    <td><a href="https://tabemea.roche.com/views/TurnoverRate/Dashboard1?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">Turnover Rate</a></td>
+                    <td>Functional</td>
+                    <td>Provides Turnover rate as well as New starters data for all PDG departments</td>
+                    <td>Mo</td>
+                    <td>Tableau</td>
+                    <td>Pharmares</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AePSTkEUm3pArLCpu.n6rFQ" target="_blank">United States Resourcing - Off-Line Demand Calculation Tool 2015_09_04</a></td>
                     <td>Functional</td>
                     <td>Excel algo calculation tool</td>
@@ -36245,14 +36253,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://tabemea.roche.com/views/TurnoverRate/Dashboard1?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">Turnover Rate</a></td>
-                    <td>Functional</td>
-                    <td>Provides Turnover rate as well as New starters data for all PDG departments</td>
-                    <td>Mo</td>
-                    <td>Tableau</td>
-                    <td>Pharmares</td>
                   </tr>
                   </tbody>
                 </table>
@@ -36326,6 +36326,14 @@
                     <td>Other</td>
                   </tr>
                   <tr>
+                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
+                    <td>Functional</td>
+                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>CTMS</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://ctmsreportsportal.roche.com/ctmsPortal/home" target="_blank">CTMS Reports</a></td>
                     <td>Departmental Program Study Country Site Patient Functional</td>
                     <td>CTMS is a central repository for study information on all Roche sponsored and supported trials. The CTMS Reports Portal is your optimized area for CTMS Business Objects reports.</td>
@@ -36468,14 +36476,6 @@
                     <td>Live</td>
                     <td>Internet</td>
                     <td>Other</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
-                    <td>Functional</td>
-                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
-                    <td>Daily</td>
-                    <td>Tableau</td>
-                    <td>CTMS</td>
                   </tr>
                   </tbody>
                 </table>
@@ -37463,6 +37463,14 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
+                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
+                    <td>Other</td>
+                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>CTMS</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Acwd.w9Uaa1BgNbB7Rg77jc" target="_blank">CSR&D - Actuals Report over Time (North America) (Carlos Portillo) Ver: New March 2013?Last Run May1,2017</a></td>
                     <td>Resourcing</td>
                     <td>List timesheet actuals for CCO in Canada.</td>
@@ -38007,6 +38015,14 @@
                     <td>Timesheets</td>
                   </tr>
                   <tr>
+                    <td><a href="https://tabemea.roche.com/views/TurnoverRate/Dashboard1?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">Turnover Rate</a></td>
+                    <td>Resourcing</td>
+                    <td>Provides Turnover rate as well as New starters data for all PDG departments</td>
+                    <td>Mo</td>
+                    <td>Tableau</td>
+                    <td>Pharmares</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AePSTkEUm3pArLCpu.n6rFQ" target="_blank">United States Resourcing - Off-Line Demand Calculation Tool 2015_09_04</a></td>
                     <td>Resourcing</td>
                     <td>Excel algo calculation tool</td>
@@ -38021,22 +38037,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://tabemea.roche.com/views/TurnoverRate/Dashboard1?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">Turnover Rate</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides Turnover rate as well as New starters data for all PDG departments</td>
-                    <td>Mo</td>
-                    <td>Tableau</td>
-                    <td>Pharmares</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
-                    <td>Other</td>
-                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
-                    <td>Daily</td>
-                    <td>Tableau</td>
-                    <td>CTMS</td>
                   </tr>
                   </tbody>
                 </table>
@@ -38115,6 +38115,14 @@
                     <td>Provides resourcing information for the Asia Pacific region.</td>
                     <td>Weekly</td>
                     <td>Spotfire</td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
+                    <td>Other</td>
+                    <td>Functional</td>
+                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVd0qKbiqtdLuG6li9k6ZFU" target="_blank">CTMS and PlanSource Demand for Join w/ Master Trial List - France</a></td>
@@ -38275,14 +38283,6 @@
                     <td>Contains metrics for monitoring visits and site visit report submission.  Limited to 2017. United States only.</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
-                    <td>Other</td>
-                    <td>Functional</td>
-                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
-                    <td>Daily</td>
-                    <td>Tableau</td>
                   </tr>
                   </tbody>
                 </table>
@@ -40085,6 +40085,15 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
+                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
+                    <td>Other</td>
+                    <td>Functional</td>
+                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>CTMS</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Acwd.w9Uaa1BgNbB7Rg77jc" target="_blank">CSR&D - Actuals Report over Time (North America) (Carlos Portillo) Ver: New March 2013?Last Run May1,2017</a></td>
                     <td>Resourcing</td>
                     <td>Functional</td>
@@ -40769,6 +40778,15 @@
                     <td>Other</td>
                   </tr>
                   <tr>
+                    <td><a href="https://tabemea.roche.com/views/TurnoverRate/Dashboard1?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">Turnover Rate</a></td>
+                    <td>Resourcing</td>
+                    <td>Functional</td>
+                    <td>Provides Turnover rate as well as New starters data for all PDG departments</td>
+                    <td>Mo</td>
+                    <td>Tableau</td>
+                    <td>Pharmares</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AePSTkEUm3pArLCpu.n6rFQ" target="_blank">United States Resourcing - Off-Line Demand Calculation Tool 2015_09_04</a></td>
                     <td>Resourcing</td>
                     <td>Functional</td>
@@ -40794,24 +40812,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://tabemea.roche.com/views/TurnoverRate/Dashboard1?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">Turnover Rate</a></td>
-                    <td>Resourcing</td>
-                    <td>Functional</td>
-                    <td>Provides Turnover rate as well as New starters data for all PDG departments</td>
-                    <td>Mo</td>
-                    <td>Tableau</td>
-                    <td>Pharmares</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
-                    <td>Other</td>
-                    <td>Functional</td>
-                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
-                    <td>Daily</td>
-                    <td>Tableau</td>
-                    <td>CTMS</td>
                   </tr>
                   </tbody>
                 </table>
@@ -41558,6 +41558,14 @@
                     <td>Timesheets</td>
                   </tr>
                   <tr>
+                    <td><a href="https://tabemea.roche.com/views/TurnoverRate/Dashboard1?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">Turnover Rate</a></td>
+                    <td>Functional</td>
+                    <td>Provides Turnover rate as well as New starters data for all PDG departments</td>
+                    <td>Mo</td>
+                    <td>Tableau</td>
+                    <td>Pharmares</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AePSTkEUm3pArLCpu.n6rFQ" target="_blank">United States Resourcing - Off-Line Demand Calculation Tool 2015_09_04</a></td>
                     <td>Functional</td>
                     <td>Excel algo calculation tool</td>
@@ -41572,14 +41580,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://tabemea.roche.com/views/TurnoverRate/Dashboard1?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">Turnover Rate</a></td>
-                    <td>Functional</td>
-                    <td>Provides Turnover rate as well as New starters data for all PDG departments</td>
-                    <td>Mo</td>
-                    <td>Tableau</td>
-                    <td>Pharmares</td>
                   </tr>
                   </tbody>
                 </table>
@@ -41653,6 +41653,14 @@
                     <td>Other</td>
                   </tr>
                   <tr>
+                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
+                    <td>Functional</td>
+                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>CTMS</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://ctmsreportsportal.roche.com/ctmsPortal/home" target="_blank">CTMS Reports</a></td>
                     <td>Departmental Program Study Country Site Patient Functional</td>
                     <td>CTMS is a central repository for study information on all Roche sponsored and supported trials. The CTMS Reports Portal is your optimized area for CTMS Business Objects reports.</td>
@@ -41795,14 +41803,6 @@
                     <td>Live</td>
                     <td>Internet</td>
                     <td>Other</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
-                    <td>Functional</td>
-                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
-                    <td>Daily</td>
-                    <td>Tableau</td>
-                    <td>CTMS</td>
                   </tr>
                   </tbody>
                 </table>
@@ -42446,6 +42446,14 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
+                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
+                    <td>Other</td>
+                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
+                    <td>CTMS</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Acwd.w9Uaa1BgNbB7Rg77jc" target="_blank">CSR&D - Actuals Report over Time (North America) (Carlos Portillo) Ver: New March 2013?Last Run May1,2017</a></td>
                     <td>Resourcing</td>
                     <td>List timesheet actuals for CCO in Canada.</td>
@@ -42838,6 +42846,14 @@
                     <td>Timesheets</td>
                   </tr>
                   <tr>
+                    <td><a href="https://tabemea.roche.com/views/TurnoverRate/Dashboard1?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">Turnover Rate</a></td>
+                    <td>Resourcing</td>
+                    <td>Provides Turnover rate as well as New starters data for all PDG departments</td>
+                    <td>Mo</td>
+                    <td>Tableau</td>
+                    <td>Pharmares</td>
+                  </tr>
+                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AePSTkEUm3pArLCpu.n6rFQ" target="_blank">United States Resourcing - Off-Line Demand Calculation Tool 2015_09_04</a></td>
                     <td>Resourcing</td>
                     <td>Excel algo calculation tool</td>
@@ -42852,22 +42868,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://tabemea.roche.com/views/TurnoverRate/Dashboard1?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">Turnover Rate</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides Turnover rate as well as New starters data for all PDG departments</td>
-                    <td>Mo</td>
-                    <td>Tableau</td>
-                    <td>Pharmares</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
-                    <td>Other</td>
-                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
-                    <td>Daily</td>
-                    <td>Tableau</td>
-                    <td>CTMS</td>
                   </tr>
                   </tbody>
                 </table>
@@ -42946,6 +42946,14 @@
                     <td>Lists studies held in CTMS, AIMs, and TrialWorks. Includes overall recruitment, site activation, and key milestones. Comprehensive set of parameters for filtering</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
+                    <td>Other</td>
+                    <td>Functional</td>
+                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
+                    <td>Daily</td>
+                    <td>Tableau</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVd0qKbiqtdLuG6li9k6ZFU" target="_blank">CTMS and PlanSource Demand for Join w/ Master Trial List - France</a></td>
@@ -43050,14 +43058,6 @@
                     <td>Provides data listing of the study milestones for planned and actual dates for a selected data set.</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://tabemea.roche.com/views/CROVendorDashboard/StudyBreakdownSourcingPhaseCROTA?:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no" target="_blank">CRO and Vendor dashboard</a></td>
-                    <td>Other</td>
-                    <td>Functional</td>
-                    <td>Dashboard showing CRO and Vendor data for all PDG studies</td>
-                    <td>Daily</td>
-                    <td>Tableau</td>
                   </tr>
                   </tbody>
                 </table>
