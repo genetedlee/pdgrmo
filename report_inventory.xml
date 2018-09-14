@@ -1195,16 +1195,6 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWM.QuNDCvBErQe3JOFxxkc" target="_blank">FTE Task Detail Demand Report (Activity Dates)</a></td>
-                    <td>Resourcing</td>
-                    <td>Study Country Functional</td>
-                    <td>Provides data listing of the adjusted demand for PDG, including specifically activity start and end dates.  Data file is used to support resource planning analysis.</td>
-                    <td>Functional Management Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfbhXdbgn9hPvNlW7qvAQoM" target="_blank">FTE Task Detail Demand Report (new)</a></td>
                     <td>Resourcing</td>
                     <td>Study Country Functional</td>
@@ -1215,20 +1205,20 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVc1KSmRi1RPrh_yUlKJymU" target="_blank">FTE Task Detail Demand Report_MDGA & PAO_(Dan)</a></td>
+                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbNum980I_hPuUZRzo8XP_E" target="_blank">FTE Task Detail Demand Report_All PDG_SNAPSHOT (Dan)</a></td>
                     <td>Resourcing</td>
                     <td>Functional</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.  This is limited to MDGA and PAO demand for use by CCO.  </td>
+                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
                     <td>Resource Management</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbNum980I_hPuUZRzo8XP_E" target="_blank">FTE Task Detail Report_All PDG_(Dan)</a></td>
+                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVc1KSmRi1RPrh_yUlKJymU" target="_blank">FTE Task Detail Demand Report_MDGA & PAO_(Dan)</a></td>
                     <td>Resourcing</td>
                     <td>Functional</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
+                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.  This is limited to MDGA and PAO demand for use by CCO.  </td>
                     <td>Resource Management</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
@@ -1313,16 +1303,6 @@
                     <td>Live</td>
                     <td>Internet</td>
                     <td>Other</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AR96cDVV7YtKs8Glkw6blVw" target="_blank">Global CCO Resourcing Report-PS Capacity, Demand, Actuals & CTMS Milestones (Dan)</a></td>
-                    <td>Resourcing</td>
-                    <td>Functional</td>
-                    <td>Provides total global resourcing information for use by CCO Resource Managers.  Demand, Supply, Capacity, Actuals, and country level milestones for the studies.</td>
-                    <td>Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource CTMS</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AXbfArUskUNChiDLWEskb.s" target="_blank">GNE - SSF - Inhouse Roles Demand, Supply, Capacity, Actuals</a></td>
@@ -1503,16 +1483,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource CTMS</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWwSZxOiPUJGq5ozjeWnwmg" target="_blank">MDGEB - Resourcing Report-PS Capacity, Demand, Actuals (Dan)</a></td>
-                    <td>Resourcing</td>
-                    <td>Functional</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
-                    <td>Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=Af0FzSXtx1FOgD49TdeNtwM&sIDType=CUID" target="_blank">Medical Emergency Contacts</a></td>
@@ -1815,16 +1785,6 @@
                     <td>PharmaRes</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AZZxmqmqMehPkM.DT5gslgw" target="_blank">PharmaRes Changes (MDGA/PAO)</a></td>
-                    <td>Resourcing</td>
-                    <td>Functional</td>
-                    <td>Provides data listing of the role changes for PDG since the last data refresh.  Supports data checks for departmental role changes.</td>
-                    <td>Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PharmaRes</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AY_CcejeoXNPtcWSHuIjdOg" target="_blank">PharmaRes Changes (Quality)</a></td>
                     <td>Resourcing</td>
                     <td>Functional</td>
@@ -1923,26 +1883,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>CTMS</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AS994jtRi45PmZ72g0ziZn0" target="_blank">PPP Molecule Report I2ON</a></td>
-                    <td>Resourcing</td>
-                    <td>Study Country</td>
-                    <td>Provides an overview and study details of demand, supply, and actuals by molecule and site for PDG I2ON</td>
-                    <td>Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVbNyFpEnAxHpvdsyzNOM4g" target="_blank">PPP Molecule Report Oncology</a></td>
-                    <td>Resourcing</td>
-                    <td>Study Country</td>
-                    <td>Provides and overview and study details of demand, supply, and actuals by molecule and site for PDG for Oncology</td>
-                    <td>Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AeYuzKbWyQhAuwGG.xNYtDs&sIDType=CUID" target="_blank">pRED Study Listing</a></td>
@@ -2045,16 +1985,6 @@
                     <td>CTMS</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYCURDlT7w1PnRiUhpVBVAQ" target="_blank">PVC Actual Detail Report</a></td>
-                    <td>Resourcing</td>
-                    <td>Study</td>
-                    <td>Provides a data listing of the PVC actuals cost for a molecule or study.</td>
-                    <td>Program Management Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>SAP</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ATji5Vxrr9FLt7krfsIhWfI" target="_blank">PVC Actual Detail Report</a></td>
                     <td>Financial</td>
                     <td>Study</td>
@@ -2063,16 +1993,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>SAP</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVw5nLXWCcdMk..GuPtrLwU" target="_blank">PVC Task Detail Report</a></td>
-                    <td>Resourcing</td>
-                    <td>Study</td>
-                    <td>Provides a data listing of the PVC planned cost for a molecule or study.</td>
-                    <td>Program Management Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource Quantum</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AW4s7Z500EdNs0l6vBy6vMw" target="_blank">PVC Task Detail Report</a></td>
@@ -2863,16 +2783,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>CTMS</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Aa7103lAuuBAmJLmWPVbbuA" target="_blank">Study Level Milestone Changes PDG</a></td>
-                    <td>Resourcing</td>
-                    <td>Study</td>
-                    <td>Provides data listing of the study milestones for planned and actual dates with changes tracked between selected data sets.  Used to identify when a study milestone or parameter may have been changed in the system.</td>
-                    <td>Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource CTMS</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYhmInop1llIiIGWW91BuBU" target="_blank">Study Level Milestone Report</a></td>
@@ -5394,15 +5304,6 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWM.QuNDCvBErQe3JOFxxkc" target="_blank">FTE Task Detail Demand Report (Activity Dates)</a></td>
-                    <td>Study Country Functional</td>
-                    <td>Provides data listing of the adjusted demand for PDG, including specifically activity start and end dates.  Data file is used to support resource planning analysis.</td>
-                    <td>Functional Management Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfbhXdbgn9hPvNlW7qvAQoM" target="_blank">FTE Task Detail Demand Report (new)</a></td>
                     <td>Study Country Functional</td>
                     <td>Provides data listing of the adjusted demand for PDG.  Data file is used to support various visualizations using Spotfire and Tableau for resourcing planning.</td>
@@ -5412,18 +5313,18 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVc1KSmRi1RPrh_yUlKJymU" target="_blank">FTE Task Detail Demand Report_MDGA & PAO_(Dan)</a></td>
+                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbNum980I_hPuUZRzo8XP_E" target="_blank">FTE Task Detail Demand Report_All PDG_SNAPSHOT (Dan)</a></td>
                     <td>Functional</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.  This is limited to MDGA and PAO demand for use by CCO.  </td>
+                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
                     <td>Resource Management</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbNum980I_hPuUZRzo8XP_E" target="_blank">FTE Task Detail Report_All PDG_(Dan)</a></td>
+                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVc1KSmRi1RPrh_yUlKJymU" target="_blank">FTE Task Detail Demand Report_MDGA & PAO_(Dan)</a></td>
                     <td>Functional</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
+                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.  This is limited to MDGA and PAO demand for use by CCO.  </td>
                     <td>Resource Management</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
@@ -5491,15 +5392,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource CTMS Excel</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AR96cDVV7YtKs8Glkw6blVw" target="_blank">Global CCO Resourcing Report-PS Capacity, Demand, Actuals & CTMS Milestones (Dan)</a></td>
-                    <td>Functional</td>
-                    <td>Provides total global resourcing information for use by CCO Resource Managers.  Demand, Supply, Capacity, Actuals, and country level milestones for the studies.</td>
-                    <td>Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource CTMS</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AXbfArUskUNChiDLWEskb.s" target="_blank">GNE - SSF - Inhouse Roles Demand, Supply, Capacity, Actuals</a></td>
@@ -5574,15 +5466,6 @@
                     <td>PlanSource CTMS</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWwSZxOiPUJGq5ozjeWnwmg" target="_blank">MDGEB - Resourcing Report-PS Capacity, Demand, Actuals (Dan)</a></td>
-                    <td>Functional</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
-                    <td>Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AV5xLwZ9qSBGtEKAORjbYXM" target="_blank">NACCO PS Capacity, Demand, Actuals & CTMS Milestones</a></td>
                     <td>Functional</td>
                     <td>Shows overview of FTE data and milestones for North America</td>
@@ -5637,15 +5520,6 @@
                     <td>PharmaRes</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AZZxmqmqMehPkM.DT5gslgw" target="_blank">PharmaRes Changes (MDGA/PAO)</a></td>
-                    <td>Functional</td>
-                    <td>Provides data listing of the role changes for PDG since the last data refresh.  Supports data checks for departmental role changes.</td>
-                    <td>Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PharmaRes</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AY_CcejeoXNPtcWSHuIjdOg" target="_blank">PharmaRes Changes (Quality)</a></td>
                     <td>Functional</td>
                     <td>Provides data listing of the role changes for PDG since the last data refresh.  Supports data checks for training requirements based on role changes.</td>
@@ -5691,42 +5565,6 @@
                     <td>Timesheets</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AS994jtRi45PmZ72g0ziZn0" target="_blank">PPP Molecule Report I2ON</a></td>
-                    <td>Study Country</td>
-                    <td>Provides an overview and study details of demand, supply, and actuals by molecule and site for PDG I2ON</td>
-                    <td>Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVbNyFpEnAxHpvdsyzNOM4g" target="_blank">PPP Molecule Report Oncology</a></td>
-                    <td>Study Country</td>
-                    <td>Provides and overview and study details of demand, supply, and actuals by molecule and site for PDG for Oncology</td>
-                    <td>Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYCURDlT7w1PnRiUhpVBVAQ" target="_blank">PVC Actual Detail Report</a></td>
-                    <td>Study</td>
-                    <td>Provides a data listing of the PVC actuals cost for a molecule or study.</td>
-                    <td>Program Management Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>SAP</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVw5nLXWCcdMk..GuPtrLwU" target="_blank">PVC Task Detail Report</a></td>
-                    <td>Study</td>
-                    <td>Provides a data listing of the PVC planned cost for a molecule or study.</td>
-                    <td>Program Management Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource Quantum</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AesLgwHqh45Ip0AaeLgSNoU" target="_blank">Requisition</a></td>
                     <td>Functional</td>
                     <td>Provides a listings of the current open requisitions for the selected parameters</td>
@@ -5770,15 +5608,6 @@
                     <td>Quarterly</td>
                     <td>Spotfire</td>
                     <td>PharmaRes</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Aa7103lAuuBAmJLmWPVbbuA" target="_blank">Study Level Milestone Changes PDG</a></td>
-                    <td>Study</td>
-                    <td>Provides data listing of the study milestones for planned and actual dates with changes tracked between selected data sets.  Used to identify when a study milestone or parameter may have been changed in the system.</td>
-                    <td>Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource CTMS</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYhmInop1llIiIGWW91BuBU" target="_blank">Study Level Milestone Report</a></td>
@@ -6736,15 +6565,6 @@
                     <td>PlanSource PharmaRes</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWM.QuNDCvBErQe3JOFxxkc" target="_blank">FTE Task Detail Demand Report (Activity Dates)</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides data listing of the adjusted demand for PDG, including specifically activity start and end dates.  Data file is used to support resource planning analysis.</td>
-                    <td>Functional Management Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfbhXdbgn9hPvNlW7qvAQoM" target="_blank">FTE Task Detail Demand Report (new)</a></td>
                     <td>Resourcing</td>
                     <td>Provides data listing of the adjusted demand for PDG.  Data file is used to support various visualizations using Spotfire and Tableau for resourcing planning.</td>
@@ -6970,24 +6790,6 @@
                     <td>CTMS</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AS994jtRi45PmZ72g0ziZn0" target="_blank">PPP Molecule Report I2ON</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides an overview and study details of demand, supply, and actuals by molecule and site for PDG I2ON</td>
-                    <td>Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVbNyFpEnAxHpvdsyzNOM4g" target="_blank">PPP Molecule Report Oncology</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides and overview and study details of demand, supply, and actuals by molecule and site for PDG for Oncology</td>
-                    <td>Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/OpenDocument/opendoc/openDocument.jsp?iDocID=AeYuzKbWyQhAuwGG.xNYtDs&sIDType=CUID" target="_blank">pRED Study Listing</a></td>
                     <td>Portfolio</td>
                     <td>Report displaying pRED initiated and conducted clinical studies</td>
@@ -7069,15 +6871,6 @@
                     <td>CTMS</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYCURDlT7w1PnRiUhpVBVAQ" target="_blank">PVC Actual Detail Report</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides a data listing of the PVC actuals cost for a molecule or study.</td>
-                    <td>Program Management Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>SAP</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ATji5Vxrr9FLt7krfsIhWfI" target="_blank">PVC Actual Detail Report</a></td>
                     <td>Financial</td>
                     <td>Report provides details of Actual PVCs selectable by Cost Center, Tasks, Sites in either Local Currnecy or CHF. The report allows the selection of Exchange Rate There are two  tabs with datas: PVC Raw Data, PVC Actuals Details </td>
@@ -7085,15 +6878,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>SAP</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVw5nLXWCcdMk..GuPtrLwU" target="_blank">PVC Task Detail Report</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides a data listing of the PVC planned cost for a molecule or study.</td>
-                    <td>Program Management Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource Quantum</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AW4s7Z500EdNs0l6vBy6vMw" target="_blank">PVC Task Detail Report</a></td>
@@ -7634,15 +7418,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>CTMS</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Aa7103lAuuBAmJLmWPVbbuA" target="_blank">Study Level Milestone Changes PDG</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides data listing of the study milestones for planned and actual dates with changes tracked between selected data sets.  Used to identify when a study milestone or parameter may have been changed in the system.</td>
-                    <td>Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource CTMS</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYhmInop1llIiIGWW91BuBU" target="_blank">Study Level Milestone Report</a></td>
@@ -8219,15 +7994,6 @@
                     <td>PlanSource PharmaRes</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWM.QuNDCvBErQe3JOFxxkc" target="_blank">FTE Task Detail Demand Report (Activity Dates)</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides data listing of the adjusted demand for PDG, including specifically activity start and end dates.  Data file is used to support resource planning analysis.</td>
-                    <td>Functional Management Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfbhXdbgn9hPvNlW7qvAQoM" target="_blank">FTE Task Detail Demand Report (new)</a></td>
                     <td>Resourcing</td>
                     <td>Provides data listing of the adjusted demand for PDG.  Data file is used to support various visualizations using Spotfire and Tableau for resourcing planning.</td>
@@ -8406,24 +8172,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>CTMS</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AS994jtRi45PmZ72g0ziZn0" target="_blank">PPP Molecule Report I2ON</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides an overview and study details of demand, supply, and actuals by molecule and site for PDG I2ON</td>
-                    <td>Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVbNyFpEnAxHpvdsyzNOM4g" target="_blank">PPP Molecule Report Oncology</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides and overview and study details of demand, supply, and actuals by molecule and site for PDG for Oncology</td>
-                    <td>Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
                   </tr>
                   <tr>
                     <td><a href="http://pdspotfire.roche.com/SpotfireWeb/ViewAnalysis.aspx?file=043ccdfe-2a7b-449b-8e8a-c57d7d3ae16f" target="_blank">PRP - History of Country Enrollment</a></td>
@@ -10274,15 +10022,6 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWM.QuNDCvBErQe3JOFxxkc" target="_blank">FTE Task Detail Demand Report (Activity Dates)</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides data listing of the adjusted demand for PDG, including specifically activity start and end dates.  Data file is used to support resource planning analysis.</td>
-                    <td>Functional Management Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfbhXdbgn9hPvNlW7qvAQoM" target="_blank">FTE Task Detail Demand Report (new)</a></td>
                     <td>Resourcing</td>
                     <td>Provides data listing of the adjusted demand for PDG.  Data file is used to support various visualizations using Spotfire and Tableau for resourcing planning.</td>
@@ -10292,18 +10031,18 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVc1KSmRi1RPrh_yUlKJymU" target="_blank">FTE Task Detail Demand Report_MDGA & PAO_(Dan)</a></td>
+                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbNum980I_hPuUZRzo8XP_E" target="_blank">FTE Task Detail Demand Report_All PDG_SNAPSHOT (Dan)</a></td>
                     <td>Resourcing</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.  This is limited to MDGA and PAO demand for use by CCO.  </td>
+                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
                     <td>Resource Management</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbNum980I_hPuUZRzo8XP_E" target="_blank">FTE Task Detail Report_All PDG_(Dan)</a></td>
+                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVc1KSmRi1RPrh_yUlKJymU" target="_blank">FTE Task Detail Demand Report_MDGA & PAO_(Dan)</a></td>
                     <td>Resourcing</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
+                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.  This is limited to MDGA and PAO demand for use by CCO.  </td>
                     <td>Resource Management</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
@@ -10371,15 +10110,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource CTMS Excel</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AR96cDVV7YtKs8Glkw6blVw" target="_blank">Global CCO Resourcing Report-PS Capacity, Demand, Actuals & CTMS Milestones (Dan)</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides total global resourcing information for use by CCO Resource Managers.  Demand, Supply, Capacity, Actuals, and country level milestones for the studies.</td>
-                    <td>Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource CTMS</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AXbfArUskUNChiDLWEskb.s" target="_blank">GNE - SSF - Inhouse Roles Demand, Supply, Capacity, Actuals</a></td>
@@ -10481,15 +10211,6 @@
                     <td>PlanSource CTMS</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWwSZxOiPUJGq5ozjeWnwmg" target="_blank">MDGEB - Resourcing Report-PS Capacity, Demand, Actuals (Dan)</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
-                    <td>Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://mydq.roche.com/" target="_blank">MyDQ 2.0</a></td>
                     <td>Data Quality</td>
                     <td>Provides a Data quality overview for PDG, showing metrics for regions, countries and study-countries</td>
@@ -10566,15 +10287,6 @@
                     <td>Resourcing</td>
                     <td>Provides a listing of PDG employees by site.</td>
                     <td>Functional Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PharmaRes</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AZZxmqmqMehPkM.DT5gslgw" target="_blank">PharmaRes Changes (MDGA/PAO)</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides data listing of the role changes for PDG since the last data refresh.  Supports data checks for departmental role changes.</td>
-                    <td>Resource Management</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PharmaRes</td>
@@ -11314,15 +11026,6 @@
                     <td>Business Objects</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AR96cDVV7YtKs8Glkw6blVw" target="_blank">Global CCO Resourcing Report-PS Capacity, Demand, Actuals & CTMS Milestones (Dan)</a></td>
-                    <td>Resourcing</td>
-                    <td>Functional</td>
-                    <td>Provides total global resourcing information for use by CCO Resource Managers.  Demand, Supply, Capacity, Actuals, and country level milestones for the studies.</td>
-                    <td>Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                  </tr>
-                  <tr>
                     <td><a href="https://gocsm.roche.com" target="_blank">goCSM</a></td>
                     <td>Portfolio</td>
                     <td>Country</td>
@@ -12052,15 +11755,6 @@
                     <td>Business Objects</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Aa7103lAuuBAmJLmWPVbbuA" target="_blank">Study Level Milestone Changes PDG</a></td>
-                    <td>Resourcing</td>
-                    <td>Study</td>
-                    <td>Provides data listing of the study milestones for planned and actual dates with changes tracked between selected data sets.  Used to identify when a study milestone or parameter may have been changed in the system.</td>
-                    <td>Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYhmInop1llIiIGWW91BuBU" target="_blank">Study Level Milestone Report</a></td>
                     <td>Resourcing</td>
                     <td>Study</td>
@@ -12670,15 +12364,6 @@
                     <td>Business Objects</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AZZxmqmqMehPkM.DT5gslgw" target="_blank">PharmaRes Changes (MDGA/PAO)</a></td>
-                    <td>Resourcing</td>
-                    <td>Functional</td>
-                    <td>Provides data listing of the role changes for PDG since the last data refresh.  Supports data checks for departmental role changes.</td>
-                    <td>Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AY_CcejeoXNPtcWSHuIjdOg" target="_blank">PharmaRes Changes (Quality)</a></td>
                     <td>Resourcing</td>
                     <td>Functional</td>
@@ -12974,15 +12659,6 @@
                     <td>Business Objects</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWM.QuNDCvBErQe3JOFxxkc" target="_blank">FTE Task Detail Demand Report (Activity Dates)</a></td>
-                    <td>Resourcing</td>
-                    <td>Study Country Functional</td>
-                    <td>Provides data listing of the adjusted demand for PDG, including specifically activity start and end dates.  Data file is used to support resource planning analysis.</td>
-                    <td>Functional Management Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfbhXdbgn9hPvNlW7qvAQoM" target="_blank">FTE Task Detail Demand Report (new)</a></td>
                     <td>Resourcing</td>
                     <td>Study Country Functional</td>
@@ -12992,19 +12668,19 @@
                     <td>Business Objects</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVc1KSmRi1RPrh_yUlKJymU" target="_blank">FTE Task Detail Demand Report_MDGA & PAO_(Dan)</a></td>
+                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbNum980I_hPuUZRzo8XP_E" target="_blank">FTE Task Detail Demand Report_All PDG_SNAPSHOT (Dan)</a></td>
                     <td>Resourcing</td>
                     <td>Functional</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.  This is limited to MDGA and PAO demand for use by CCO.  </td>
+                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
                     <td>Resource Management</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbNum980I_hPuUZRzo8XP_E" target="_blank">FTE Task Detail Report_All PDG_(Dan)</a></td>
+                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVc1KSmRi1RPrh_yUlKJymU" target="_blank">FTE Task Detail Demand Report_MDGA & PAO_(Dan)</a></td>
                     <td>Resourcing</td>
                     <td>Functional</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
+                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.  This is limited to MDGA and PAO demand for use by CCO.  </td>
                     <td>Resource Management</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
@@ -13073,15 +12749,6 @@
                     <td>Business Objects</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AR96cDVV7YtKs8Glkw6blVw" target="_blank">Global CCO Resourcing Report-PS Capacity, Demand, Actuals & CTMS Milestones (Dan)</a></td>
-                    <td>Resourcing</td>
-                    <td>Functional</td>
-                    <td>Provides total global resourcing information for use by CCO Resource Managers.  Demand, Supply, Capacity, Actuals, and country level milestones for the studies.</td>
-                    <td>Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AXbfArUskUNChiDLWEskb.s" target="_blank">GNE - SSF - Inhouse Roles Demand, Supply, Capacity, Actuals</a></td>
                     <td>Resourcing</td>
                     <td>Functional</td>
@@ -13123,15 +12790,6 @@
                     <td>Study</td>
                     <td>Provides study milestones for studies</td>
                     <td>Functional Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWwSZxOiPUJGq5ozjeWnwmg" target="_blank">MDGEB - Resourcing Report-PS Capacity, Demand, Actuals (Dan)</a></td>
-                    <td>Resourcing</td>
-                    <td>Functional</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
-                    <td>Resource Management</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                   </tr>
@@ -13271,38 +12929,11 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AS994jtRi45PmZ72g0ziZn0" target="_blank">PPP Molecule Report I2ON</a></td>
-                    <td>Resourcing</td>
-                    <td>Study Country</td>
-                    <td>Provides an overview and study details of demand, supply, and actuals by molecule and site for PDG I2ON</td>
-                    <td>Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVbNyFpEnAxHpvdsyzNOM4g" target="_blank">PPP Molecule Report Oncology</a></td>
-                    <td>Resourcing</td>
-                    <td>Study Country</td>
-                    <td>Provides and overview and study details of demand, supply, and actuals by molecule and site for PDG for Oncology</td>
-                    <td>Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AZnXlbsHGcdCi8bj1aD.v_g" target="_blank">Project Milestone Report</a></td>
                     <td>Portfolio</td>
                     <td>Study</td>
                     <td>Report showing per governance body, DTA and molecule all, key or supplemental milestone dates (approved, planned and actual)</td>
                     <td>Study Management Country Management Functional Management Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVw5nLXWCcdMk..GuPtrLwU" target="_blank">PVC Task Detail Report</a></td>
-                    <td>Resourcing</td>
-                    <td>Study</td>
-                    <td>Provides a data listing of the PVC planned cost for a molecule or study.</td>
-                    <td>Program Management Resource Management</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                   </tr>
@@ -13348,15 +12979,6 @@
                     <td>Country</td>
                     <td>Provides a list of sites for each country and status of enrollment</td>
                     <td>Country Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Aa7103lAuuBAmJLmWPVbbuA" target="_blank">Study Level Milestone Changes PDG</a></td>
-                    <td>Resourcing</td>
-                    <td>Study</td>
-                    <td>Provides data listing of the study milestones for planned and actual dates with changes tracked between selected data sets.  Used to identify when a study milestone or parameter may have been changed in the system.</td>
-                    <td>Resource Management</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                   </tr>
@@ -13668,15 +13290,6 @@
                     <td>Study Country Site</td>
                     <td>One of the key reports within Quantum showing actuals, future forecast and latest estimates</td>
                     <td>Study Management Country Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVw5nLXWCcdMk..GuPtrLwU" target="_blank">PVC Task Detail Report</a></td>
-                    <td>Resourcing</td>
-                    <td>Study</td>
-                    <td>Provides a data listing of the PVC planned cost for a molecule or study.</td>
-                    <td>Program Management Resource Management</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                   </tr>
@@ -14215,15 +13828,6 @@
                     <td>Program Management Study Management Country/Site Management Functional Management Service Groups</td>
                     <td>Live</td>
                     <td>Internet</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYCURDlT7w1PnRiUhpVBVAQ" target="_blank">PVC Actual Detail Report</a></td>
-                    <td>Resourcing</td>
-                    <td>Study</td>
-                    <td>Provides a data listing of the PVC actuals cost for a molecule or study.</td>
-                    <td>Program Management Resource Management</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ATji5Vxrr9FLt7krfsIhWfI" target="_blank">PVC Actual Detail Report</a></td>
@@ -15350,24 +14954,6 @@
                     <td>CTMS</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYCURDlT7w1PnRiUhpVBVAQ" target="_blank">PVC Actual Detail Report</a></td>
-                    <td>Resourcing</td>
-                    <td>Study</td>
-                    <td>Provides a data listing of the PVC actuals cost for a molecule or study.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>SAP</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVw5nLXWCcdMk..GuPtrLwU" target="_blank">PVC Task Detail Report</a></td>
-                    <td>Resourcing</td>
-                    <td>Study</td>
-                    <td>Provides a data listing of the PVC planned cost for a molecule or study.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource Quantum</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://quantumreportsportal.roche.com/quantumPortal/home" target="_blank">Quantum Reports</a></td>
                     <td>Other</td>
                     <td>Departmental Program Study Country Site Patient Functional</td>
@@ -15855,22 +15441,6 @@
                     <td>Monthly</td>
                     <td>Spotfire</td>
                     <td>PlanSource LSPC Agenda</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYCURDlT7w1PnRiUhpVBVAQ" target="_blank">PVC Actual Detail Report</a></td>
-                    <td>Study</td>
-                    <td>Provides a data listing of the PVC actuals cost for a molecule or study.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>SAP</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVw5nLXWCcdMk..GuPtrLwU" target="_blank">PVC Task Detail Report</a></td>
-                    <td>Study</td>
-                    <td>Provides a data listing of the PVC planned cost for a molecule or study.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource Quantum</td>
                   </tr>
                   <tr>
                     <td><a href="http://145.245.44.246/index.aspx?report=RFPReport_Online" target="_blank">RFP Report (daily)</a></td>
@@ -16437,22 +16007,6 @@
                     <td>CTMS</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYCURDlT7w1PnRiUhpVBVAQ" target="_blank">PVC Actual Detail Report</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides a data listing of the PVC actuals cost for a molecule or study.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>SAP</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVw5nLXWCcdMk..GuPtrLwU" target="_blank">PVC Task Detail Report</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides a data listing of the PVC planned cost for a molecule or study.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource Quantum</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://145.245.44.246/index.aspx?report=RFPReport_Online" target="_blank">RFP Report (daily)</a></td>
                     <td>Resourcing</td>
                     <td>Provides an Excel extract in a pivot table format from PlanSource  that shows man year estimates of FTE and PVCs.</td>
@@ -17200,14 +16754,6 @@
                     <td>PowerPoint</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVw5nLXWCcdMk..GuPtrLwU" target="_blank">PVC Task Detail Report</a></td>
-                    <td>Resourcing</td>
-                    <td>Study</td>
-                    <td>Provides a data listing of the PVC planned cost for a molecule or study.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://145.245.44.246/index.aspx?report=RFPReport_Online" target="_blank">RFP Report (daily)</a></td>
                     <td>Resourcing</td>
                     <td>Program Study Functional</td>
@@ -17338,14 +16884,6 @@
                     <td>Financial</td>
                     <td>Program Study Country</td>
                     <td>This report provides an overview  of either Early Budget, Forecast or Latest Estimate by cost type for each study. This is shown monthly and quarterly for the current and the next year. For the following years, costs are shown by year only.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVw5nLXWCcdMk..GuPtrLwU" target="_blank">PVC Task Detail Report</a></td>
-                    <td>Resourcing</td>
-                    <td>Study</td>
-                    <td>Provides a data listing of the PVC planned cost for a molecule or study.</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                   </tr>
@@ -17618,14 +17156,6 @@
                     <td>PlanSource is a unified planning environment for functions, projects and portfolio with integrated business processes and dynamic reporting capabilities. The PlanSource Reports Portal allows you to access PlanSource, Business Objects, and Excel reports</td>
                     <td>Live</td>
                     <td>Internet</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYCURDlT7w1PnRiUhpVBVAQ" target="_blank">PVC Actual Detail Report</a></td>
-                    <td>Resourcing</td>
-                    <td>Study</td>
-                    <td>Provides a data listing of the PVC actuals cost for a molecule or study.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
                   </tr>
                   <tr>
                     <td><a href="http://quantumreportsportal.roche.com/quantumPortal/home" target="_blank">Quantum Reports</a></td>
@@ -18510,15 +18040,6 @@
                     <td>PlanSource PharmaRes</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWM.QuNDCvBErQe3JOFxxkc" target="_blank">FTE Task Detail Demand Report (Activity Dates)</a></td>
-                    <td>Resourcing</td>
-                    <td>Study Country Functional</td>
-                    <td>Provides data listing of the adjusted demand for PDG, including specifically activity start and end dates.  Data file is used to support resource planning analysis.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfbhXdbgn9hPvNlW7qvAQoM" target="_blank">FTE Task Detail Demand Report (new)</a></td>
                     <td>Resourcing</td>
                     <td>Study Country Functional</td>
@@ -20790,14 +20311,6 @@
                     <td>PlanSource PharmaRes</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWM.QuNDCvBErQe3JOFxxkc" target="_blank">FTE Task Detail Demand Report (Activity Dates)</a></td>
-                    <td>Study Country Functional</td>
-                    <td>Provides data listing of the adjusted demand for PDG, including specifically activity start and end dates.  Data file is used to support resource planning analysis.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfbhXdbgn9hPvNlW7qvAQoM" target="_blank">FTE Task Detail Demand Report (new)</a></td>
                     <td>Study Country Functional</td>
                     <td>Provides data listing of the adjusted demand for PDG.  Data file is used to support various visualizations using Spotfire and Tableau for resourcing planning.</td>
@@ -21544,14 +21057,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource PharmaRes</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWM.QuNDCvBErQe3JOFxxkc" target="_blank">FTE Task Detail Demand Report (Activity Dates)</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides data listing of the adjusted demand for PDG, including specifically activity start and end dates.  Data file is used to support resource planning analysis.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfbhXdbgn9hPvNlW7qvAQoM" target="_blank">FTE Task Detail Demand Report (new)</a></td>
@@ -22505,14 +22010,6 @@
                     <td>PlanSource PharmaRes</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWM.QuNDCvBErQe3JOFxxkc" target="_blank">FTE Task Detail Demand Report (Activity Dates)</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides data listing of the adjusted demand for PDG, including specifically activity start and end dates.  Data file is used to support resource planning analysis.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfbhXdbgn9hPvNlW7qvAQoM" target="_blank">FTE Task Detail Demand Report (new)</a></td>
                     <td>Resourcing</td>
                     <td>Provides data listing of the adjusted demand for PDG.  Data file is used to support various visualizations using Spotfire and Tableau for resourcing planning.</td>
@@ -23620,14 +23117,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource PharmaRes</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWM.QuNDCvBErQe3JOFxxkc" target="_blank">FTE Task Detail Demand Report (Activity Dates)</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides data listing of the adjusted demand for PDG, including specifically activity start and end dates.  Data file is used to support resource planning analysis.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfbhXdbgn9hPvNlW7qvAQoM" target="_blank">FTE Task Detail Demand Report (new)</a></td>
@@ -24929,14 +24418,6 @@
                     <td>Resourcing</td>
                     <td>Country Functional</td>
                     <td>Provides data listing of the capacity for PDG.  Data file is used to support various visualizations using Spotfire and Tableau for resourcing planning.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWM.QuNDCvBErQe3JOFxxkc" target="_blank">FTE Task Detail Demand Report (Activity Dates)</a></td>
-                    <td>Resourcing</td>
-                    <td>Study Country Functional</td>
-                    <td>Provides data listing of the adjusted demand for PDG, including specifically activity start and end dates.  Data file is used to support resource planning analysis.</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                   </tr>
@@ -26561,15 +26042,6 @@
                     <td>PlanSource PharmaRes</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWM.QuNDCvBErQe3JOFxxkc" target="_blank">FTE Task Detail Demand Report (Activity Dates)</a></td>
-                    <td>Resourcing</td>
-                    <td>Study Country Functional</td>
-                    <td>Provides data listing of the adjusted demand for PDG, including specifically activity start and end dates.  Data file is used to support resource planning analysis.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfbhXdbgn9hPvNlW7qvAQoM" target="_blank">FTE Task Detail Demand Report (new)</a></td>
                     <td>Resourcing</td>
                     <td>Study Country Functional</td>
@@ -28795,14 +28267,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource PharmaRes</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWM.QuNDCvBErQe3JOFxxkc" target="_blank">FTE Task Detail Demand Report (Activity Dates)</a></td>
-                    <td>Study Country Functional</td>
-                    <td>Provides data listing of the adjusted demand for PDG, including specifically activity start and end dates.  Data file is used to support resource planning analysis.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfbhXdbgn9hPvNlW7qvAQoM" target="_blank">FTE Task Detail Demand Report (new)</a></td>
@@ -29337,14 +28801,6 @@
                     <td>PlanSource PharmaRes</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWM.QuNDCvBErQe3JOFxxkc" target="_blank">FTE Task Detail Demand Report (Activity Dates)</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides data listing of the adjusted demand for PDG, including specifically activity start and end dates.  Data file is used to support resource planning analysis.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfbhXdbgn9hPvNlW7qvAQoM" target="_blank">FTE Task Detail Demand Report (new)</a></td>
                     <td>Resourcing</td>
                     <td>Provides data listing of the adjusted demand for PDG.  Data file is used to support various visualizations using Spotfire and Tableau for resourcing planning.</td>
@@ -30222,14 +29678,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource PharmaRes</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWM.QuNDCvBErQe3JOFxxkc" target="_blank">FTE Task Detail Demand Report (Activity Dates)</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides data listing of the adjusted demand for PDG, including specifically activity start and end dates.  Data file is used to support resource planning analysis.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfbhXdbgn9hPvNlW7qvAQoM" target="_blank">FTE Task Detail Demand Report (new)</a></td>
@@ -31757,14 +31205,6 @@
                     <td>PlanSource PharmaRes</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWM.QuNDCvBErQe3JOFxxkc" target="_blank">FTE Task Detail Demand Report (Activity Dates)</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides data listing of the adjusted demand for PDG, including specifically activity start and end dates.  Data file is used to support resource planning analysis.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfbhXdbgn9hPvNlW7qvAQoM" target="_blank">FTE Task Detail Demand Report (new)</a></td>
                     <td>Resourcing</td>
                     <td>Provides data listing of the adjusted demand for PDG.  Data file is used to support various visualizations using Spotfire and Tableau for resourcing planning.</td>
@@ -33112,14 +32552,6 @@
                     <td>Resourcing</td>
                     <td>Country Functional</td>
                     <td>Provides data listing of the capacity for PDG.  Data file is used to support various visualizations using Spotfire and Tableau for resourcing planning.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWM.QuNDCvBErQe3JOFxxkc" target="_blank">FTE Task Detail Demand Report (Activity Dates)</a></td>
-                    <td>Resourcing</td>
-                    <td>Study Country Functional</td>
-                    <td>Provides data listing of the adjusted demand for PDG, including specifically activity start and end dates.  Data file is used to support resource planning analysis.</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                   </tr>
@@ -34490,15 +33922,6 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWM.QuNDCvBErQe3JOFxxkc" target="_blank">FTE Task Detail Demand Report (Activity Dates)</a></td>
-                    <td>Resourcing</td>
-                    <td>Study Country Functional</td>
-                    <td>Provides data listing of the adjusted demand for PDG, including specifically activity start and end dates.  Data file is used to support resource planning analysis.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfbhXdbgn9hPvNlW7qvAQoM" target="_blank">FTE Task Detail Demand Report (new)</a></td>
                     <td>Resourcing</td>
                     <td>Study Country Functional</td>
@@ -34508,19 +33931,19 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVc1KSmRi1RPrh_yUlKJymU" target="_blank">FTE Task Detail Demand Report_MDGA & PAO_(Dan)</a></td>
+                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbNum980I_hPuUZRzo8XP_E" target="_blank">FTE Task Detail Demand Report_All PDG_SNAPSHOT (Dan)</a></td>
                     <td>Resourcing</td>
                     <td>Functional</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.  This is limited to MDGA and PAO demand for use by CCO.  </td>
+                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbNum980I_hPuUZRzo8XP_E" target="_blank">FTE Task Detail Report_All PDG_(Dan)</a></td>
+                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVc1KSmRi1RPrh_yUlKJymU" target="_blank">FTE Task Detail Demand Report_MDGA & PAO_(Dan)</a></td>
                     <td>Resourcing</td>
                     <td>Functional</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
+                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.  This is limited to MDGA and PAO demand for use by CCO.  </td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource</td>
@@ -34596,15 +34019,6 @@
                     <td>Live</td>
                     <td>Internet</td>
                     <td>Other</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AR96cDVV7YtKs8Glkw6blVw" target="_blank">Global CCO Resourcing Report-PS Capacity, Demand, Actuals & CTMS Milestones (Dan)</a></td>
-                    <td>Resourcing</td>
-                    <td>Functional</td>
-                    <td>Provides total global resourcing information for use by CCO Resource Managers.  Demand, Supply, Capacity, Actuals, and country level milestones for the studies.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource CTMS</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AXbfArUskUNChiDLWEskb.s" target="_blank">GNE - SSF - Inhouse Roles Demand, Supply, Capacity, Actuals</a></td>
@@ -34722,15 +34136,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource CTMS</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWwSZxOiPUJGq5ozjeWnwmg" target="_blank">MDGEB - Resourcing Report-PS Capacity, Demand, Actuals (Dan)</a></td>
-                    <td>Resourcing</td>
-                    <td>Functional</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
                   </tr>
                   <tr>
                     <td><a href="http://metricschampion.org/" target="_blank">Metrics Champion Consortium</a></td>
@@ -35935,14 +35340,6 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWM.QuNDCvBErQe3JOFxxkc" target="_blank">FTE Task Detail Demand Report (Activity Dates)</a></td>
-                    <td>Study Country Functional</td>
-                    <td>Provides data listing of the adjusted demand for PDG, including specifically activity start and end dates.  Data file is used to support resource planning analysis.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfbhXdbgn9hPvNlW7qvAQoM" target="_blank">FTE Task Detail Demand Report (new)</a></td>
                     <td>Study Country Functional</td>
                     <td>Provides data listing of the adjusted demand for PDG.  Data file is used to support various visualizations using Spotfire and Tableau for resourcing planning.</td>
@@ -35951,17 +35348,17 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVc1KSmRi1RPrh_yUlKJymU" target="_blank">FTE Task Detail Demand Report_MDGA & PAO_(Dan)</a></td>
+                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbNum980I_hPuUZRzo8XP_E" target="_blank">FTE Task Detail Demand Report_All PDG_SNAPSHOT (Dan)</a></td>
                     <td>Functional</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.  This is limited to MDGA and PAO demand for use by CCO.  </td>
+                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbNum980I_hPuUZRzo8XP_E" target="_blank">FTE Task Detail Report_All PDG_(Dan)</a></td>
+                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVc1KSmRi1RPrh_yUlKJymU" target="_blank">FTE Task Detail Demand Report_MDGA & PAO_(Dan)</a></td>
                     <td>Functional</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
+                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.  This is limited to MDGA and PAO demand for use by CCO.  </td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource</td>
@@ -36021,14 +35418,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource CTMS Excel</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AR96cDVV7YtKs8Glkw6blVw" target="_blank">Global CCO Resourcing Report-PS Capacity, Demand, Actuals & CTMS Milestones (Dan)</a></td>
-                    <td>Functional</td>
-                    <td>Provides total global resourcing information for use by CCO Resource Managers.  Demand, Supply, Capacity, Actuals, and country level milestones for the studies.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource CTMS</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AXbfArUskUNChiDLWEskb.s" target="_blank">GNE - SSF - Inhouse Roles Demand, Supply, Capacity, Actuals</a></td>
@@ -36093,14 +35482,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource CTMS</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWwSZxOiPUJGq5ozjeWnwmg" target="_blank">MDGEB - Resourcing Report-PS Capacity, Demand, Actuals (Dan)</a></td>
-                    <td>Functional</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AV5xLwZ9qSBGtEKAORjbYXM" target="_blank">NACCO PS Capacity, Demand, Actuals & CTMS Milestones</a></td>
@@ -36723,14 +36104,6 @@
                     <td>PlanSource PharmaRes</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWM.QuNDCvBErQe3JOFxxkc" target="_blank">FTE Task Detail Demand Report (Activity Dates)</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides data listing of the adjusted demand for PDG, including specifically activity start and end dates.  Data file is used to support resource planning analysis.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfbhXdbgn9hPvNlW7qvAQoM" target="_blank">FTE Task Detail Demand Report (new)</a></td>
                     <td>Resourcing</td>
                     <td>Provides data listing of the adjusted demand for PDG.  Data file is used to support various visualizations using Spotfire and Tableau for resourcing planning.</td>
@@ -37056,14 +36429,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource PharmaRes</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWM.QuNDCvBErQe3JOFxxkc" target="_blank">FTE Task Detail Demand Report (Activity Dates)</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides data listing of the adjusted demand for PDG, including specifically activity start and end dates.  Data file is used to support resource planning analysis.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfbhXdbgn9hPvNlW7qvAQoM" target="_blank">FTE Task Detail Demand Report (new)</a></td>
@@ -37599,14 +36964,6 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWM.QuNDCvBErQe3JOFxxkc" target="_blank">FTE Task Detail Demand Report (Activity Dates)</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides data listing of the adjusted demand for PDG, including specifically activity start and end dates.  Data file is used to support resource planning analysis.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfbhXdbgn9hPvNlW7qvAQoM" target="_blank">FTE Task Detail Demand Report (new)</a></td>
                     <td>Resourcing</td>
                     <td>Provides data listing of the adjusted demand for PDG.  Data file is used to support various visualizations using Spotfire and Tableau for resourcing planning.</td>
@@ -37615,17 +36972,17 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVc1KSmRi1RPrh_yUlKJymU" target="_blank">FTE Task Detail Demand Report_MDGA & PAO_(Dan)</a></td>
+                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbNum980I_hPuUZRzo8XP_E" target="_blank">FTE Task Detail Demand Report_All PDG_SNAPSHOT (Dan)</a></td>
                     <td>Resourcing</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.  This is limited to MDGA and PAO demand for use by CCO.  </td>
+                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbNum980I_hPuUZRzo8XP_E" target="_blank">FTE Task Detail Report_All PDG_(Dan)</a></td>
+                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVc1KSmRi1RPrh_yUlKJymU" target="_blank">FTE Task Detail Demand Report_MDGA & PAO_(Dan)</a></td>
                     <td>Resourcing</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
+                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.  This is limited to MDGA and PAO demand for use by CCO.  </td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource</td>
@@ -37685,14 +37042,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource CTMS Excel</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AR96cDVV7YtKs8Glkw6blVw" target="_blank">Global CCO Resourcing Report-PS Capacity, Demand, Actuals & CTMS Milestones (Dan)</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides total global resourcing information for use by CCO Resource Managers.  Demand, Supply, Capacity, Actuals, and country level milestones for the studies.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource CTMS</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AXbfArUskUNChiDLWEskb.s" target="_blank">GNE - SSF - Inhouse Roles Demand, Supply, Capacity, Actuals</a></td>
@@ -37781,14 +37130,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource CTMS</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWwSZxOiPUJGq5ozjeWnwmg" target="_blank">MDGEB - Resourcing Report-PS Capacity, Demand, Actuals (Dan)</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
                   </tr>
                   <tr>
                     <td><a href="http://mydq.roche.com/" target="_blank">MyDQ 2.0</a></td>
@@ -38193,14 +37534,6 @@
                     <td>Resourcing</td>
                     <td>Functional</td>
                     <td>Shows discrepancies between PlanSource and CTMS data for sites, patients, and FTEs for Canada</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AR96cDVV7YtKs8Glkw6blVw" target="_blank">Global CCO Resourcing Report-PS Capacity, Demand, Actuals & CTMS Milestones (Dan)</a></td>
-                    <td>Resourcing</td>
-                    <td>Functional</td>
-                    <td>Provides total global resourcing information for use by CCO Resource Managers.  Demand, Supply, Capacity, Actuals, and country level milestones for the studies.</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                   </tr>
@@ -38734,14 +38067,6 @@
                     <td>Business Objects</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWM.QuNDCvBErQe3JOFxxkc" target="_blank">FTE Task Detail Demand Report (Activity Dates)</a></td>
-                    <td>Resourcing</td>
-                    <td>Study Country Functional</td>
-                    <td>Provides data listing of the adjusted demand for PDG, including specifically activity start and end dates.  Data file is used to support resource planning analysis.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfbhXdbgn9hPvNlW7qvAQoM" target="_blank">FTE Task Detail Demand Report (new)</a></td>
                     <td>Resourcing</td>
                     <td>Study Country Functional</td>
@@ -38750,18 +38075,18 @@
                     <td>Business Objects</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVc1KSmRi1RPrh_yUlKJymU" target="_blank">FTE Task Detail Demand Report_MDGA & PAO_(Dan)</a></td>
+                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbNum980I_hPuUZRzo8XP_E" target="_blank">FTE Task Detail Demand Report_All PDG_SNAPSHOT (Dan)</a></td>
                     <td>Resourcing</td>
                     <td>Functional</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.  This is limited to MDGA and PAO demand for use by CCO.  </td>
+                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbNum980I_hPuUZRzo8XP_E" target="_blank">FTE Task Detail Report_All PDG_(Dan)</a></td>
+                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVc1KSmRi1RPrh_yUlKJymU" target="_blank">FTE Task Detail Demand Report_MDGA & PAO_(Dan)</a></td>
                     <td>Resourcing</td>
                     <td>Functional</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
+                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.  This is limited to MDGA and PAO demand for use by CCO.  </td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                   </tr>
@@ -38822,14 +38147,6 @@
                     <td>Business Objects</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AR96cDVV7YtKs8Glkw6blVw" target="_blank">Global CCO Resourcing Report-PS Capacity, Demand, Actuals & CTMS Milestones (Dan)</a></td>
-                    <td>Resourcing</td>
-                    <td>Functional</td>
-                    <td>Provides total global resourcing information for use by CCO Resource Managers.  Demand, Supply, Capacity, Actuals, and country level milestones for the studies.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AXbfArUskUNChiDLWEskb.s" target="_blank">GNE - SSF - Inhouse Roles Demand, Supply, Capacity, Actuals</a></td>
                     <td>Resourcing</td>
                     <td>Functional</td>
@@ -38866,14 +38183,6 @@
                     <td>Portfolio</td>
                     <td>Study</td>
                     <td>Provides study milestones for studies</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWwSZxOiPUJGq5ozjeWnwmg" target="_blank">MDGEB - Resourcing Report-PS Capacity, Demand, Actuals (Dan)</a></td>
-                    <td>Resourcing</td>
-                    <td>Functional</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                   </tr>
@@ -40238,15 +39547,6 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWM.QuNDCvBErQe3JOFxxkc" target="_blank">FTE Task Detail Demand Report (Activity Dates)</a></td>
-                    <td>Resourcing</td>
-                    <td>Study Country Functional</td>
-                    <td>Provides data listing of the adjusted demand for PDG, including specifically activity start and end dates.  Data file is used to support resource planning analysis.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfbhXdbgn9hPvNlW7qvAQoM" target="_blank">FTE Task Detail Demand Report (new)</a></td>
                     <td>Resourcing</td>
                     <td>Study Country Functional</td>
@@ -40256,19 +39556,19 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVc1KSmRi1RPrh_yUlKJymU" target="_blank">FTE Task Detail Demand Report_MDGA & PAO_(Dan)</a></td>
+                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbNum980I_hPuUZRzo8XP_E" target="_blank">FTE Task Detail Demand Report_All PDG_SNAPSHOT (Dan)</a></td>
                     <td>Resourcing</td>
                     <td>Functional</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.  This is limited to MDGA and PAO demand for use by CCO.  </td>
+                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbNum980I_hPuUZRzo8XP_E" target="_blank">FTE Task Detail Report_All PDG_(Dan)</a></td>
+                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVc1KSmRi1RPrh_yUlKJymU" target="_blank">FTE Task Detail Demand Report_MDGA & PAO_(Dan)</a></td>
                     <td>Resourcing</td>
                     <td>Functional</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
+                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.  This is limited to MDGA and PAO demand for use by CCO.  </td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource</td>
@@ -40337,15 +39637,6 @@
                     <td>Other</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AR96cDVV7YtKs8Glkw6blVw" target="_blank">Global CCO Resourcing Report-PS Capacity, Demand, Actuals & CTMS Milestones (Dan)</a></td>
-                    <td>Resourcing</td>
-                    <td>Functional</td>
-                    <td>Provides total global resourcing information for use by CCO Resource Managers.  Demand, Supply, Capacity, Actuals, and country level milestones for the studies.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource CTMS</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AXbfArUskUNChiDLWEskb.s" target="_blank">GNE - SSF - Inhouse Roles Demand, Supply, Capacity, Actuals</a></td>
                     <td>Resourcing</td>
                     <td>Functional</td>
@@ -40389,15 +39680,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource CTMS</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWwSZxOiPUJGq5ozjeWnwmg" target="_blank">MDGEB - Resourcing Report-PS Capacity, Demand, Actuals (Dan)</a></td>
-                    <td>Resourcing</td>
-                    <td>Functional</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
                   </tr>
                   <tr>
                     <td><a href="http://metricschampion.org/" target="_blank">Metrics Champion Consortium</a></td>
@@ -40517,15 +39799,6 @@
                     <td>Other</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AZZxmqmqMehPkM.DT5gslgw" target="_blank">PharmaRes Changes (MDGA/PAO)</a></td>
-                    <td>Resourcing</td>
-                    <td>Functional</td>
-                    <td>Provides data listing of the role changes for PDG since the last data refresh.  Supports data checks for departmental role changes.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PharmaRes</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AY_CcejeoXNPtcWSHuIjdOg" target="_blank">PharmaRes Changes (Quality)</a></td>
                     <td>Resourcing</td>
                     <td>Functional</td>
@@ -40607,24 +39880,6 @@
                     <td>Timesheets</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AS994jtRi45PmZ72g0ziZn0" target="_blank">PPP Molecule Report I2ON</a></td>
-                    <td>Resourcing</td>
-                    <td>Study Country</td>
-                    <td>Provides an overview and study details of demand, supply, and actuals by molecule and site for PDG I2ON</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVbNyFpEnAxHpvdsyzNOM4g" target="_blank">PPP Molecule Report Oncology</a></td>
-                    <td>Resourcing</td>
-                    <td>Study Country</td>
-                    <td>Provides and overview and study details of demand, supply, and actuals by molecule and site for PDG for Oncology</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AZnXlbsHGcdCi8bj1aD.v_g" target="_blank">Project Milestone Report</a></td>
                     <td>Portfolio</td>
                     <td>Study</td>
@@ -40634,15 +39889,6 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYCURDlT7w1PnRiUhpVBVAQ" target="_blank">PVC Actual Detail Report</a></td>
-                    <td>Resourcing</td>
-                    <td>Study</td>
-                    <td>Provides a data listing of the PVC actuals cost for a molecule or study.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>SAP</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ATji5Vxrr9FLt7krfsIhWfI" target="_blank">PVC Actual Detail Report</a></td>
                     <td>Financial</td>
                     <td>Study</td>
@@ -40650,15 +39896,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>SAP</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVw5nLXWCcdMk..GuPtrLwU" target="_blank">PVC Task Detail Report</a></td>
-                    <td>Resourcing</td>
-                    <td>Study</td>
-                    <td>Provides a data listing of the PVC planned cost for a molecule or study.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource Quantum</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AW4s7Z500EdNs0l6vBy6vMw" target="_blank">PVC Task Detail Report</a></td>
@@ -40722,15 +39959,6 @@
                     <td>Live</td>
                     <td>Internet</td>
                     <td>Other</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Aa7103lAuuBAmJLmWPVbbuA" target="_blank">Study Level Milestone Changes PDG</a></td>
-                    <td>Resourcing</td>
-                    <td>Study</td>
-                    <td>Provides data listing of the study milestones for planned and actual dates with changes tracked between selected data sets.  Used to identify when a study milestone or parameter may have been changed in the system.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource CTMS</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYhmInop1llIiIGWW91BuBU" target="_blank">Study Level Milestone Report</a></td>
@@ -41254,14 +40482,6 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWM.QuNDCvBErQe3JOFxxkc" target="_blank">FTE Task Detail Demand Report (Activity Dates)</a></td>
-                    <td>Study Country Functional</td>
-                    <td>Provides data listing of the adjusted demand for PDG, including specifically activity start and end dates.  Data file is used to support resource planning analysis.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfbhXdbgn9hPvNlW7qvAQoM" target="_blank">FTE Task Detail Demand Report (new)</a></td>
                     <td>Study Country Functional</td>
                     <td>Provides data listing of the adjusted demand for PDG.  Data file is used to support various visualizations using Spotfire and Tableau for resourcing planning.</td>
@@ -41270,17 +40490,17 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVc1KSmRi1RPrh_yUlKJymU" target="_blank">FTE Task Detail Demand Report_MDGA & PAO_(Dan)</a></td>
+                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbNum980I_hPuUZRzo8XP_E" target="_blank">FTE Task Detail Demand Report_All PDG_SNAPSHOT (Dan)</a></td>
                     <td>Functional</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.  This is limited to MDGA and PAO demand for use by CCO.  </td>
+                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbNum980I_hPuUZRzo8XP_E" target="_blank">FTE Task Detail Report_All PDG_(Dan)</a></td>
+                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVc1KSmRi1RPrh_yUlKJymU" target="_blank">FTE Task Detail Demand Report_MDGA & PAO_(Dan)</a></td>
                     <td>Functional</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
+                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.  This is limited to MDGA and PAO demand for use by CCO.  </td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource</td>
@@ -41334,14 +40554,6 @@
                     <td>CTMS PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AR96cDVV7YtKs8Glkw6blVw" target="_blank">Global CCO Resourcing Report-PS Capacity, Demand, Actuals & CTMS Milestones (Dan)</a></td>
-                    <td>Functional</td>
-                    <td>Provides total global resourcing information for use by CCO Resource Managers.  Demand, Supply, Capacity, Actuals, and country level milestones for the studies.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource CTMS</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AXbfArUskUNChiDLWEskb.s" target="_blank">GNE - SSF - Inhouse Roles Demand, Supply, Capacity, Actuals</a></td>
                     <td>Functional</td>
                     <td>Similar to the All NACCO report above, but this is limited to the inhouse staff in San Francisco</td>
@@ -41374,14 +40586,6 @@
                     <td>PlanSource CTMS</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWwSZxOiPUJGq5ozjeWnwmg" target="_blank">MDGEB - Resourcing Report-PS Capacity, Demand, Actuals (Dan)</a></td>
-                    <td>Functional</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://pdspotfire.roche.com/spotfire/wp/OpenAnalysis?file=/PD%20Operations/PDG%20HC%20Budget/PDG%202017%20T3" target="_blank">PDG Budget Snap Shot Comparison Report</a></td>
                     <td>Functional</td>
                     <td>This report provides an overview of the last three budget snapshots and highlights demand variances for the molecular and non-molecular portfolios.</td>
@@ -41412,14 +40616,6 @@
                     <td>T Rounds</td>
                     <td>Excel</td>
                     <td>PlanSource Portfolio Assumptions</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AZZxmqmqMehPkM.DT5gslgw" target="_blank">PharmaRes Changes (MDGA/PAO)</a></td>
-                    <td>Functional</td>
-                    <td>Provides data listing of the role changes for PDG since the last data refresh.  Supports data checks for departmental role changes.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PharmaRes</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AY_CcejeoXNPtcWSHuIjdOg" target="_blank">PharmaRes Changes (Quality)</a></td>
@@ -41462,38 +40658,6 @@
                     <td>Timesheets</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AS994jtRi45PmZ72g0ziZn0" target="_blank">PPP Molecule Report I2ON</a></td>
-                    <td>Study Country</td>
-                    <td>Provides an overview and study details of demand, supply, and actuals by molecule and site for PDG I2ON</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVbNyFpEnAxHpvdsyzNOM4g" target="_blank">PPP Molecule Report Oncology</a></td>
-                    <td>Study Country</td>
-                    <td>Provides and overview and study details of demand, supply, and actuals by molecule and site for PDG for Oncology</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYCURDlT7w1PnRiUhpVBVAQ" target="_blank">PVC Actual Detail Report</a></td>
-                    <td>Study</td>
-                    <td>Provides a data listing of the PVC actuals cost for a molecule or study.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>SAP</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVw5nLXWCcdMk..GuPtrLwU" target="_blank">PVC Task Detail Report</a></td>
-                    <td>Study</td>
-                    <td>Provides a data listing of the PVC planned cost for a molecule or study.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource Quantum</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AesLgwHqh45Ip0AaeLgSNoU" target="_blank">Requisition</a></td>
                     <td>Functional</td>
                     <td>Provides a listings of the current open requisitions for the selected parameters</td>
@@ -41524,14 +40688,6 @@
                     <td>Daily</td>
                     <td>Excel</td>
                     <td>PlanSource</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Aa7103lAuuBAmJLmWPVbbuA" target="_blank">Study Level Milestone Changes PDG</a></td>
-                    <td>Study</td>
-                    <td>Provides data listing of the study milestones for planned and actual dates with changes tracked between selected data sets.  Used to identify when a study milestone or parameter may have been changed in the system.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource CTMS</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYhmInop1llIiIGWW91BuBU" target="_blank">Study Level Milestone Report</a></td>
@@ -41954,14 +41110,6 @@
                     <td>PlanSource PharmaRes</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWM.QuNDCvBErQe3JOFxxkc" target="_blank">FTE Task Detail Demand Report (Activity Dates)</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides data listing of the adjusted demand for PDG, including specifically activity start and end dates.  Data file is used to support resource planning analysis.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfbhXdbgn9hPvNlW7qvAQoM" target="_blank">FTE Task Detail Demand Report (new)</a></td>
                     <td>Resourcing</td>
                     <td>Provides data listing of the adjusted demand for PDG.  Data file is used to support various visualizations using Spotfire and Tableau for resourcing planning.</td>
@@ -42026,22 +41174,6 @@
                     <td>PlanSource Portfolio Assumptions</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AS994jtRi45PmZ72g0ziZn0" target="_blank">PPP Molecule Report I2ON</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides an overview and study details of demand, supply, and actuals by molecule and site for PDG I2ON</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVbNyFpEnAxHpvdsyzNOM4g" target="_blank">PPP Molecule Report Oncology</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides and overview and study details of demand, supply, and actuals by molecule and site for PDG for Oncology</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AZnXlbsHGcdCi8bj1aD.v_g" target="_blank">Project Milestone Report</a></td>
                     <td>Portfolio</td>
                     <td>Report showing per governance body, DTA and molecule all, key or supplemental milestone dates (approved, planned and actual)</td>
@@ -42050,28 +41182,12 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYCURDlT7w1PnRiUhpVBVAQ" target="_blank">PVC Actual Detail Report</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides a data listing of the PVC actuals cost for a molecule or study.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>SAP</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ATji5Vxrr9FLt7krfsIhWfI" target="_blank">PVC Actual Detail Report</a></td>
                     <td>Financial</td>
                     <td>Report provides details of Actual PVCs selectable by Cost Center, Tasks, Sites in either Local Currnecy or CHF. The report allows the selection of Exchange Rate There are two  tabs with datas: PVC Raw Data, PVC Actuals Details </td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>SAP</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVw5nLXWCcdMk..GuPtrLwU" target="_blank">PVC Task Detail Report</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides a data listing of the PVC planned cost for a molecule or study.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource Quantum</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AW4s7Z500EdNs0l6vBy6vMw" target="_blank">PVC Task Detail Report</a></td>
@@ -42096,14 +41212,6 @@
                     <td>Daily</td>
                     <td>Excel</td>
                     <td>PlanSource</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Aa7103lAuuBAmJLmWPVbbuA" target="_blank">Study Level Milestone Changes PDG</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides data listing of the study milestones for planned and actual dates with changes tracked between selected data sets.  Used to identify when a study milestone or parameter may have been changed in the system.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource CTMS</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYhmInop1llIiIGWW91BuBU" target="_blank">Study Level Milestone Report</a></td>
@@ -42201,14 +41309,6 @@
                     <td>PlanSource PharmaRes</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWM.QuNDCvBErQe3JOFxxkc" target="_blank">FTE Task Detail Demand Report (Activity Dates)</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides data listing of the adjusted demand for PDG, including specifically activity start and end dates.  Data file is used to support resource planning analysis.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfbhXdbgn9hPvNlW7qvAQoM" target="_blank">FTE Task Detail Demand Report (new)</a></td>
                     <td>Resourcing</td>
                     <td>Provides data listing of the adjusted demand for PDG.  Data file is used to support various visualizations using Spotfire and Tableau for resourcing planning.</td>
@@ -42262,22 +41362,6 @@
                     <td>This report provides an overview of PDG molecular report demand for vendor support. </td>
                     <td>Quarterly</td>
                     <td>Spotfire</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AS994jtRi45PmZ72g0ziZn0" target="_blank">PPP Molecule Report I2ON</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides an overview and study details of demand, supply, and actuals by molecule and site for PDG I2ON</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVbNyFpEnAxHpvdsyzNOM4g" target="_blank">PPP Molecule Report Oncology</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides and overview and study details of demand, supply, and actuals by molecule and site for PDG for Oncology</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
                     <td>PlanSource</td>
                   </tr>
                   <tr>
@@ -42566,14 +41650,6 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWM.QuNDCvBErQe3JOFxxkc" target="_blank">FTE Task Detail Demand Report (Activity Dates)</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides data listing of the adjusted demand for PDG, including specifically activity start and end dates.  Data file is used to support resource planning analysis.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfbhXdbgn9hPvNlW7qvAQoM" target="_blank">FTE Task Detail Demand Report (new)</a></td>
                     <td>Resourcing</td>
                     <td>Provides data listing of the adjusted demand for PDG.  Data file is used to support various visualizations using Spotfire and Tableau for resourcing planning.</td>
@@ -42582,17 +41658,17 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVc1KSmRi1RPrh_yUlKJymU" target="_blank">FTE Task Detail Demand Report_MDGA & PAO_(Dan)</a></td>
+                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbNum980I_hPuUZRzo8XP_E" target="_blank">FTE Task Detail Demand Report_All PDG_SNAPSHOT (Dan)</a></td>
                     <td>Resourcing</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.  This is limited to MDGA and PAO demand for use by CCO.  </td>
+                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbNum980I_hPuUZRzo8XP_E" target="_blank">FTE Task Detail Report_All PDG_(Dan)</a></td>
+                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVc1KSmRi1RPrh_yUlKJymU" target="_blank">FTE Task Detail Demand Report_MDGA & PAO_(Dan)</a></td>
                     <td>Resourcing</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
+                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.  This is limited to MDGA and PAO demand for use by CCO.  </td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                     <td>PlanSource</td>
@@ -42646,14 +41722,6 @@
                     <td>CTMS PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AR96cDVV7YtKs8Glkw6blVw" target="_blank">Global CCO Resourcing Report-PS Capacity, Demand, Actuals & CTMS Milestones (Dan)</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides total global resourcing information for use by CCO Resource Managers.  Demand, Supply, Capacity, Actuals, and country level milestones for the studies.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource CTMS</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AXbfArUskUNChiDLWEskb.s" target="_blank">GNE - SSF - Inhouse Roles Demand, Supply, Capacity, Actuals</a></td>
                     <td>Resourcing</td>
                     <td>Similar to the All NACCO report above, but this is limited to the inhouse staff in San Francisco</td>
@@ -42686,14 +41754,6 @@
                     <td>PlanSource CTMS</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWwSZxOiPUJGq5ozjeWnwmg" target="_blank">MDGEB - Resourcing Report-PS Capacity, Demand, Actuals (Dan)</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PlanSource</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://pdspotfire.roche.com/spotfire/wp/OpenAnalysis?file=/PD%20Operations/PDG%20HC%20Budget/PDG%202017%20T3" target="_blank">PDG Budget Snap Shot Comparison Report</a></td>
                     <td>Resourcing Financial</td>
                     <td>This report provides an overview of the last three budget snapshots and highlights demand variances for the molecular and non-molecular portfolios.</td>
@@ -42724,14 +41784,6 @@
                     <td>T Rounds</td>
                     <td>Excel</td>
                     <td>PlanSource Portfolio Assumptions</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AZZxmqmqMehPkM.DT5gslgw" target="_blank">PharmaRes Changes (MDGA/PAO)</a></td>
-                    <td>Resourcing</td>
-                    <td>Provides data listing of the role changes for PDG since the last data refresh.  Supports data checks for departmental role changes.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                    <td>PharmaRes</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AY_CcejeoXNPtcWSHuIjdOg" target="_blank">PharmaRes Changes (Quality)</a></td>
@@ -43020,14 +42072,6 @@
                     <td>Business Objects</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AR96cDVV7YtKs8Glkw6blVw" target="_blank">Global CCO Resourcing Report-PS Capacity, Demand, Actuals & CTMS Milestones (Dan)</a></td>
-                    <td>Resourcing</td>
-                    <td>Functional</td>
-                    <td>Provides total global resourcing information for use by CCO Resource Managers.  Demand, Supply, Capacity, Actuals, and country level milestones for the studies.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AcL0a1vKMCBIot3lEW7jAvo" target="_blank">Master Trial List</a></td>
                     <td>Resourcing</td>
                     <td>Study</td>
@@ -43040,14 +42084,6 @@
                     <td>Performance</td>
                     <td>Study Country</td>
                     <td>The cycle time report has milestones and durations available for reporting.  </td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Aa7103lAuuBAmJLmWPVbbuA" target="_blank">Study Level Milestone Changes PDG</a></td>
-                    <td>Resourcing</td>
-                    <td>Study</td>
-                    <td>Provides data listing of the study milestones for planned and actual dates with changes tracked between selected data sets.  Used to identify when a study milestone or parameter may have been changed in the system.</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                   </tr>
@@ -43226,14 +42262,6 @@
                     <td>Resourcing</td>
                     <td>Country Functional</td>
                     <td>Provides data listing of the budget headcount for PDG, including absences and open requisitions.  Data file is used to support various visualizations using Spotfire and Tableau for resourcing planning.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AZZxmqmqMehPkM.DT5gslgw" target="_blank">PharmaRes Changes (MDGA/PAO)</a></td>
-                    <td>Resourcing</td>
-                    <td>Functional</td>
-                    <td>Provides data listing of the role changes for PDG since the last data refresh.  Supports data checks for departmental role changes.</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                   </tr>
@@ -43437,14 +42465,6 @@
                     <td>Business Objects</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWM.QuNDCvBErQe3JOFxxkc" target="_blank">FTE Task Detail Demand Report (Activity Dates)</a></td>
-                    <td>Resourcing</td>
-                    <td>Study Country Functional</td>
-                    <td>Provides data listing of the adjusted demand for PDG, including specifically activity start and end dates.  Data file is used to support resource planning analysis.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfbhXdbgn9hPvNlW7qvAQoM" target="_blank">FTE Task Detail Demand Report (new)</a></td>
                     <td>Resourcing</td>
                     <td>Study Country Functional</td>
@@ -43453,18 +42473,18 @@
                     <td>Business Objects</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVc1KSmRi1RPrh_yUlKJymU" target="_blank">FTE Task Detail Demand Report_MDGA & PAO_(Dan)</a></td>
+                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbNum980I_hPuUZRzo8XP_E" target="_blank">FTE Task Detail Demand Report_All PDG_SNAPSHOT (Dan)</a></td>
                     <td>Resourcing</td>
                     <td>Functional</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.  This is limited to MDGA and PAO demand for use by CCO.  </td>
+                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbNum980I_hPuUZRzo8XP_E" target="_blank">FTE Task Detail Report_All PDG_(Dan)</a></td>
+                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVc1KSmRi1RPrh_yUlKJymU" target="_blank">FTE Task Detail Demand Report_MDGA & PAO_(Dan)</a></td>
                     <td>Resourcing</td>
                     <td>Functional</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
+                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.  This is limited to MDGA and PAO demand for use by CCO.  </td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                   </tr>
@@ -43517,14 +42537,6 @@
                     <td>Business Objects</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AR96cDVV7YtKs8Glkw6blVw" target="_blank">Global CCO Resourcing Report-PS Capacity, Demand, Actuals & CTMS Milestones (Dan)</a></td>
-                    <td>Resourcing</td>
-                    <td>Functional</td>
-                    <td>Provides total global resourcing information for use by CCO Resource Managers.  Demand, Supply, Capacity, Actuals, and country level milestones for the studies.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AXbfArUskUNChiDLWEskb.s" target="_blank">GNE - SSF - Inhouse Roles Demand, Supply, Capacity, Actuals</a></td>
                     <td>Resourcing</td>
                     <td>Functional</td>
@@ -43537,14 +42549,6 @@
                     <td>Resourcing</td>
                     <td>Study</td>
                     <td>Provides data listing of the study milestones for planned and actual dates.  Data file is used to support various visualizations using Spotfire and Tableau for resourcing planning.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWwSZxOiPUJGq5ozjeWnwmg" target="_blank">MDGEB - Resourcing Report-PS Capacity, Demand, Actuals (Dan)</a></td>
-                    <td>Resourcing</td>
-                    <td>Functional</td>
-                    <td>Provides detailed demand in a format similar to that used by finance for T round snapshots.</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                   </tr>
@@ -43621,34 +42625,10 @@
                     <td>PlanSource</td>
                   </tr>
                   <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AS994jtRi45PmZ72g0ziZn0" target="_blank">PPP Molecule Report I2ON</a></td>
-                    <td>Resourcing</td>
-                    <td>Study Country</td>
-                    <td>Provides an overview and study details of demand, supply, and actuals by molecule and site for PDG I2ON</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVbNyFpEnAxHpvdsyzNOM4g" target="_blank">PPP Molecule Report Oncology</a></td>
-                    <td>Resourcing</td>
-                    <td>Study Country</td>
-                    <td>Provides and overview and study details of demand, supply, and actuals by molecule and site for PDG for Oncology</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                  </tr>
-                  <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AZnXlbsHGcdCi8bj1aD.v_g" target="_blank">Project Milestone Report</a></td>
                     <td>Portfolio</td>
                     <td>Study</td>
                     <td>Report showing per governance body, DTA and molecule all, key or supplemental milestone dates (approved, planned and actual)</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVw5nLXWCcdMk..GuPtrLwU" target="_blank">PVC Task Detail Report</a></td>
-                    <td>Resourcing</td>
-                    <td>Study</td>
-                    <td>Provides a data listing of the PVC planned cost for a molecule or study.</td>
                     <td>Daily</td>
                     <td>Business Objects</td>
                   </tr>
@@ -43675,14 +42655,6 @@
                     <td>Provides an Excel extract in a pivot table format from PlanSource  that shows man year estimates of FTE and PVCs.</td>
                     <td>Daily</td>
                     <td>Excel</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Aa7103lAuuBAmJLmWPVbbuA" target="_blank">Study Level Milestone Changes PDG</a></td>
-                    <td>Resourcing</td>
-                    <td>Study</td>
-                    <td>Provides data listing of the study milestones for planned and actual dates with changes tracked between selected data sets.  Used to identify when a study milestone or parameter may have been changed in the system.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYhmInop1llIiIGWW91BuBU" target="_blank">Study Level Milestone Report</a></td>
@@ -43754,14 +42726,6 @@
                     <th>Reporting Tool</th>
                   </tr></thead>
                   <tbody>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVw5nLXWCcdMk..GuPtrLwU" target="_blank">PVC Task Detail Report</a></td>
-                    <td>Resourcing</td>
-                    <td>Study</td>
-                    <td>Provides a data listing of the PVC planned cost for a molecule or study.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
-                  </tr>
                   </tbody>
                 </table>
               </div></div>
@@ -43983,14 +42947,6 @@
                     <td>PlanSource is a unified planning environment for functions, projects and portfolio with integrated business processes and dynamic reporting capabilities. The PlanSource Reports Portal allows you to access PlanSource, Business Objects, and Excel reports</td>
                     <td>Live</td>
                     <td>Internet</td>
-                  </tr>
-                  <tr>
-                    <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYCURDlT7w1PnRiUhpVBVAQ" target="_blank">PVC Actual Detail Report</a></td>
-                    <td>Resourcing</td>
-                    <td>Study</td>
-                    <td>Provides a data listing of the PVC actuals cost for a molecule or study.</td>
-                    <td>Daily</td>
-                    <td>Business Objects</td>
                   </tr>
                   <tr>
                     <td><a href="http://bo.roche.com/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ATji5Vxrr9FLt7krfsIhWfI" target="_blank">PVC Actual Detail Report</a></td>
