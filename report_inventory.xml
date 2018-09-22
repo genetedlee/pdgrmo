@@ -3114,16 +3114,6 @@
                     <td>Business Objects</td>
                     <td>PlanSource</td>
                   </tr>
-                  <tr>
-                    <td><a href="https://gsource.gene.com/" target="_blank">Testing for gstrusty (please ignore)</a></td>
-                    <td>Other</td>
-                    <td>Functional</td>
-                    <td>migrate server test</td>
-                    <td>sds</td>
-                    <td>Live</td>
-                    <td>Internet</td>
-                    <td>Other</td>
-                  </tr>
                   </tbody>
                 </table>
               </div></div>
@@ -5946,15 +5936,6 @@
                     <td>Departmental Program Study Country Site Patient Functional</td>
                     <td>Data usage visualised using the CDE (Critical Data Entity) model. A hierarchical description of how data is used, where it is taken from and what it means. CDEs are essentially business questions that may appear in reports or dashboards.</td>
                     <td>Program Management Study Management Country/Site Management Functional Management Service Groups</td>
-                    <td>Live</td>
-                    <td>Internet</td>
-                    <td>Other</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://gsource.gene.com/" target="_blank">Testing for gstrusty (please ignore)</a></td>
-                    <td>Functional</td>
-                    <td>migrate server test</td>
-                    <td>sds</td>
                     <td>Live</td>
                     <td>Internet</td>
                     <td>Other</td>
@@ -13956,15 +13937,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                   </tr>
-                  <tr>
-                    <td><a href="https://gsource.gene.com/" target="_blank">Testing for gstrusty (please ignore)</a></td>
-                    <td>Other</td>
-                    <td>Functional</td>
-                    <td>migrate server test</td>
-                    <td>sds</td>
-                    <td>Live</td>
-                    <td>Internet</td>
-                  </tr>
                   </tbody>
                 </table>
               </div></div>
@@ -14531,10 +14503,6 @@
                   <tr>
                     <td><a href="https://pharmaintelligence.informa.com/products-and-services/data-and-analysis/trialtrove" target="_blank">Trial Trove</a></td>
                     <td>Trialtrove is a comprehensive real-time source of pharmaceutical clinical trials intelligence, supported by industry analysts. It provides a complete view of the global clinical trial landscape, allowing easy competitor tracking and protocol design comparison to results readouts.</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://gsource.gene.com/" target="_blank">Testing for gstrusty (please ignore)</a></td>
-                    <td>migrate server test</td>
                   </tr>
                   </tbody>
                 </table>
@@ -15066,15 +15034,6 @@
                     <td>Internet</td>
                     <td>Other</td>
                   </tr>
-                  <tr>
-                    <td><a href="https://gsource.gene.com/" target="_blank">Testing for gstrusty (please ignore)</a></td>
-                    <td>Other</td>
-                    <td>Functional</td>
-                    <td>migrate server test</td>
-                    <td>Live</td>
-                    <td>Internet</td>
-                    <td>Other</td>
-                  </tr>
                   </tbody>
                 </table>
               </div></div>
@@ -15702,14 +15661,6 @@
                     <td><a href="https://sites.google.com/a/roche.com/visualising-pdg-data/" target="_blank">Visualising PDG Data</a></td>
                     <td>Departmental Program Study Country Site Patient Functional</td>
                     <td>Data usage visualised using the CDE (Critical Data Entity) model. A hierarchical description of how data is used, where it is taken from and what it means. CDEs are essentially business questions that may appear in reports or dashboards.</td>
-                    <td>Live</td>
-                    <td>Internet</td>
-                    <td>Other</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://gsource.gene.com/" target="_blank">Testing for gstrusty (please ignore)</a></td>
-                    <td>Functional</td>
-                    <td>migrate server test</td>
                     <td>Live</td>
                     <td>Internet</td>
                     <td>Other</td>
@@ -17254,14 +17205,6 @@
                     <td>Live</td>
                     <td>Internet</td>
                   </tr>
-                  <tr>
-                    <td><a href="https://gsource.gene.com/" target="_blank">Testing for gstrusty (please ignore)</a></td>
-                    <td>Other</td>
-                    <td>Functional</td>
-                    <td>migrate server test</td>
-                    <td>Live</td>
-                    <td>Internet</td>
-                  </tr>
                   </tbody>
                 </table>
               </div></div>
@@ -17587,10 +17530,6 @@
                   <tr>
                     <td><a href="https://pharmaintelligence.informa.com/products-and-services/data-and-analysis/trialtrove" target="_blank">Trial Trove</a></td>
                     <td>Trialtrove is a comprehensive real-time source of pharmaceutical clinical trials intelligence, supported by industry analysts. It provides a complete view of the global clinical trial landscape, allowing easy competitor tracking and protocol design comparison to results readouts.</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://gsource.gene.com/" target="_blank">Testing for gstrusty (please ignore)</a></td>
-                    <td>migrate server test</td>
                   </tr>
                   </tbody>
                 </table>
@@ -19099,15 +19038,6 @@
                     <td>Business Objects</td>
                     <td>CTMS PUBDB</td>
                   </tr>
-                  <tr>
-                    <td><a href="https://gsource.gene.com/" target="_blank">Testing for gstrusty (please ignore)</a></td>
-                    <td>Other</td>
-                    <td>Functional</td>
-                    <td>migrate server test</td>
-                    <td>Live</td>
-                    <td>Internet</td>
-                    <td>Other</td>
-                  </tr>
                   </tbody>
                 </table>
               </div></div>
@@ -20631,14 +20561,6 @@
                     <td><a href="https://sites.google.com/a/roche.com/visualising-pdg-data/" target="_blank">Visualising PDG Data</a></td>
                     <td>Departmental Program Study Country Site Patient Functional</td>
                     <td>Data usage visualised using the CDE (Critical Data Entity) model. A hierarchical description of how data is used, where it is taken from and what it means. CDEs are essentially business questions that may appear in reports or dashboards.</td>
-                    <td>Live</td>
-                    <td>Internet</td>
-                    <td>Other</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://gsource.gene.com/" target="_blank">Testing for gstrusty (please ignore)</a></td>
-                    <td>Functional</td>
-                    <td>migrate server test</td>
                     <td>Live</td>
                     <td>Internet</td>
                     <td>Other</td>
@@ -25239,14 +25161,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                   </tr>
-                  <tr>
-                    <td><a href="https://gsource.gene.com/" target="_blank">Testing for gstrusty (please ignore)</a></td>
-                    <td>Other</td>
-                    <td>Functional</td>
-                    <td>migrate server test</td>
-                    <td>Live</td>
-                    <td>Internet</td>
-                  </tr>
                   </tbody>
                 </table>
               </div></div>
@@ -25628,10 +25542,6 @@
                   <tr>
                     <td><a href="https://pharmaintelligence.informa.com/products-and-services/data-and-analysis/trialtrove" target="_blank">Trial Trove</a></td>
                     <td>Trialtrove is a comprehensive real-time source of pharmaceutical clinical trials intelligence, supported by industry analysts. It provides a complete view of the global clinical trial landscape, allowing easy competitor tracking and protocol design comparison to results readouts.</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://gsource.gene.com/" target="_blank">Testing for gstrusty (please ignore)</a></td>
-                    <td>migrate server test</td>
                   </tr>
                   </tbody>
                 </table>
@@ -27094,15 +27004,6 @@
                     <td>Business Objects</td>
                     <td>CTMS PUBDB</td>
                   </tr>
-                  <tr>
-                    <td><a href="https://gsource.gene.com/" target="_blank">Testing for gstrusty (please ignore)</a></td>
-                    <td>Other</td>
-                    <td>Functional</td>
-                    <td>migrate server test</td>
-                    <td>Live</td>
-                    <td>Internet</td>
-                    <td>Other</td>
-                  </tr>
                   </tbody>
                 </table>
               </div></div>
@@ -28626,14 +28527,6 @@
                     <td><a href="https://sites.google.com/a/roche.com/visualising-pdg-data/" target="_blank">Visualising PDG Data</a></td>
                     <td>Departmental Program Study Country Site Patient Functional</td>
                     <td>Data usage visualised using the CDE (Critical Data Entity) model. A hierarchical description of how data is used, where it is taken from and what it means. CDEs are essentially business questions that may appear in reports or dashboards.</td>
-                    <td>Live</td>
-                    <td>Internet</td>
-                    <td>Other</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://gsource.gene.com/" target="_blank">Testing for gstrusty (please ignore)</a></td>
-                    <td>Functional</td>
-                    <td>migrate server test</td>
                     <td>Live</td>
                     <td>Internet</td>
                     <td>Other</td>
@@ -33258,14 +33151,6 @@
                     <td>Daily</td>
                     <td>Business Objects</td>
                   </tr>
-                  <tr>
-                    <td><a href="https://gsource.gene.com/" target="_blank">Testing for gstrusty (please ignore)</a></td>
-                    <td>Other</td>
-                    <td>Functional</td>
-                    <td>migrate server test</td>
-                    <td>Live</td>
-                    <td>Internet</td>
-                  </tr>
                   </tbody>
                 </table>
               </div></div>
@@ -33583,10 +33468,6 @@
                   <tr>
                     <td><a href="https://pharmaintelligence.informa.com/products-and-services/data-and-analysis/trialtrove" target="_blank">Trial Trove</a></td>
                     <td>Trialtrove is a comprehensive real-time source of pharmaceutical clinical trials intelligence, supported by industry analysts. It provides a complete view of the global clinical trial landscape, allowing easy competitor tracking and protocol design comparison to results readouts.</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://gsource.gene.com/" target="_blank">Testing for gstrusty (please ignore)</a></td>
-                    <td>migrate server test</td>
                   </tr>
                   </tbody>
                 </table>
@@ -34778,15 +34659,6 @@
                     <td>Business Objects</td>
                     <td>PlanSource</td>
                   </tr>
-                  <tr>
-                    <td><a href="https://gsource.gene.com/" target="_blank">Testing for gstrusty (please ignore)</a></td>
-                    <td>Other</td>
-                    <td>Functional</td>
-                    <td>migrate server test</td>
-                    <td>Live</td>
-                    <td>Internet</td>
-                    <td>Other</td>
-                  </tr>
                   </tbody>
                 </table>
               </div></div>
@@ -35982,14 +35854,6 @@
                     <td><a href="https://sites.google.com/a/roche.com/visualising-pdg-data/" target="_blank">Visualising PDG Data</a></td>
                     <td>Departmental Program Study Country Site Patient Functional</td>
                     <td>Data usage visualised using the CDE (Critical Data Entity) model. A hierarchical description of how data is used, where it is taken from and what it means. CDEs are essentially business questions that may appear in reports or dashboards.</td>
-                    <td>Live</td>
-                    <td>Internet</td>
-                    <td>Other</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://gsource.gene.com/" target="_blank">Testing for gstrusty (please ignore)</a></td>
-                    <td>Functional</td>
-                    <td>migrate server test</td>
                     <td>Live</td>
                     <td>Internet</td>
                     <td>Other</td>
@@ -38902,14 +38766,6 @@
                     <td>Live</td>
                     <td>Internet</td>
                   </tr>
-                  <tr>
-                    <td><a href="https://gsource.gene.com/" target="_blank">Testing for gstrusty (please ignore)</a></td>
-                    <td>Other</td>
-                    <td>Functional</td>
-                    <td>migrate server test</td>
-                    <td>Live</td>
-                    <td>Internet</td>
-                  </tr>
                   </tbody>
                 </table>
               </div></div>
@@ -39291,10 +39147,6 @@
                   <tr>
                     <td><a href="https://pharmaintelligence.informa.com/products-and-services/data-and-analysis/trialtrove" target="_blank">Trial Trove</a></td>
                     <td>Trialtrove is a comprehensive real-time source of pharmaceutical clinical trials intelligence, supported by industry analysts. It provides a complete view of the global clinical trial landscape, allowing easy competitor tracking and protocol design comparison to results readouts.</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://gsource.gene.com/" target="_blank">Testing for gstrusty (please ignore)</a></td>
-                    <td>migrate server test</td>
                   </tr>
                   </tbody>
                 </table>
@@ -40189,15 +40041,6 @@
                     <td>Business Objects</td>
                     <td>PlanSource</td>
                   </tr>
-                  <tr>
-                    <td><a href="https://gsource.gene.com/" target="_blank">Testing for gstrusty (please ignore)</a></td>
-                    <td>Other</td>
-                    <td>Functional</td>
-                    <td>migrate server test</td>
-                    <td>Live</td>
-                    <td>Internet</td>
-                    <td>Other</td>
-                  </tr>
                   </tbody>
                 </table>
               </div></div>
@@ -41113,14 +40956,6 @@
                     <td><a href="https://sites.google.com/a/roche.com/visualising-pdg-data/" target="_blank">Visualising PDG Data</a></td>
                     <td>Departmental Program Study Country Site Patient Functional</td>
                     <td>Data usage visualised using the CDE (Critical Data Entity) model. A hierarchical description of how data is used, where it is taken from and what it means. CDEs are essentially business questions that may appear in reports or dashboards.</td>
-                    <td>Live</td>
-                    <td>Internet</td>
-                    <td>Other</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://gsource.gene.com/" target="_blank">Testing for gstrusty (please ignore)</a></td>
-                    <td>Functional</td>
-                    <td>migrate server test</td>
                     <td>Live</td>
                     <td>Internet</td>
                     <td>Other</td>
@@ -43169,14 +43004,6 @@
                     <td>Live</td>
                     <td>Internet</td>
                   </tr>
-                  <tr>
-                    <td><a href="https://gsource.gene.com/" target="_blank">Testing for gstrusty (please ignore)</a></td>
-                    <td>Other</td>
-                    <td>Functional</td>
-                    <td>migrate server test</td>
-                    <td>Live</td>
-                    <td>Internet</td>
-                  </tr>
                   </tbody>
                 </table>
               </div></div>
@@ -43470,10 +43297,6 @@
                   <tr>
                     <td><a href="https://pharmaintelligence.informa.com/products-and-services/data-and-analysis/trialtrove" target="_blank">Trial Trove</a></td>
                     <td>Trialtrove is a comprehensive real-time source of pharmaceutical clinical trials intelligence, supported by industry analysts. It provides a complete view of the global clinical trial landscape, allowing easy competitor tracking and protocol design comparison to results readouts.</td>
-                  </tr>
-                  <tr>
-                    <td><a href="https://gsource.gene.com/" target="_blank">Testing for gstrusty (please ignore)</a></td>
-                    <td>migrate server test</td>
                   </tr>
                   </tbody>
                 </table>
